@@ -179,7 +179,8 @@ def main():
            if s["id"] in old and not old[s["id"]].get("uitverkocht") and s["uitverkocht"]]
 
     with open(STATE, "w") as f:
-        json.dump({"laatst": datetime.now().isoformat(timespec="seconds"),
+        # alleen de datum: anders verandert state.json elke run en commit Actions elk uur
+        json.dump({"laatst": datetime.now().strftime("%Y-%m-%d"),
                    "genre": args.genre, "shows": new_state}, f, ensure_ascii=False, indent=1)
 
     if args.init or not old:
