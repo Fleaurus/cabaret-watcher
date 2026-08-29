@@ -1,7 +1,52 @@
 {
- "laatst": "2026-08-29T16:13:15",
+ "laatst": "2026-08-29",
  "genre": "cabaret",
  "shows": {
+  "/agenda/seizoen-2026-2027/de-interventie-emmy-krooshof-nick-van-keulen-en-erik-boddeus": {
+   "id": "/agenda/seizoen-2026-2027/de-interventie-emmy-krooshof-nick-van-keulen-en-erik-boddeus",
+   "titel": "De Interventie",
+   "artiest": "Emmy Krooshof, Nick van Keulen en Erik Boddeüs",
+   "datum": "do 10 sep 2026 - 20:30",
+   "datum_iso": "10-9-2026 20:30:00",
+   "zaal": "Blauwe Zaal",
+   "tags": [
+    "Cabaret",
+    "Amateuruitvoering"
+   ],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/de-interventie-emmy-krooshof-nick-van-keulen-en-erik-boddeus"
+  },
+  "/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-1-flunknarf": {
+   "id": "/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-1-flunknarf",
+   "titel": "Niet zomaar een Pubquiz #1",
+   "artiest": "Flunknarf",
+   "datum": "zo 13 sep 2026 - 20:30",
+   "datum_iso": "13-9-2026 20:30:00",
+   "zaal": "Mevr. Dudok",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-1-flunknarf"
+  },
+  "/agenda/seizoen-2026-2027/cringe-johan-goossens-eva-hoeke-marie-koet-ea": {
+   "id": "/agenda/seizoen-2026-2027/cringe-johan-goossens-eva-hoeke-marie-koet-ea",
+   "titel": "Cringe",
+   "artiest": "Johan Goossens, Eva Hoeke, Marie Koet e.a.",
+   "datum": "zo 20 sep 2026 - 20:00",
+   "datum_iso": "20-9-2026 20:00:00",
+   "zaal": "Grote Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/cringe-johan-goossens-eva-hoeke-marie-koet-ea"
+  },
   "/agenda/seizoen-2026-2027/de-orde-van-de-dag-12-het-nut": {
    "id": "/agenda/seizoen-2026-2027/de-orde-van-de-dag-12-het-nut",
    "titel": "De Orde van de Dag #12",
