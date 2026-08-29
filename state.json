@@ -60,8 +60,10 @@
     "Verdieping",
     "Toneel"
    ],
-   "uitverkocht": false,
-   "labels": [],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/de-orde-van-de-dag-12-het-nut"
   },
   "/agenda/seizoen-2026-2027/double-dutch-2-derek-mitchell": {
