@@ -29,7 +29,9 @@ jobs:
             git config user.name  "cabaret-watcher"
             git config user.email "actions@github.com"
             git add state.json
-            git commit -m "stand bijgewerkt $(date -u '+%Y-%m-%d %H:%M')"
+            git commit -m "stand bijgewerkt $(date -u '+%Y-%m-%d')"
+            # branch kan intussen doorgelopen zijn -> eerst ophalen, dan pas pushen
+            git pull --rebase origin main
             git push
           else
             echo "niks veranderd"
