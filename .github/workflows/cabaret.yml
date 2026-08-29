@@ -1,0 +1,36 @@
+name: Cabaret-watcher
+
+on:
+  schedule:
+    - cron: "17 * * * *"   # elk uur op :17 (buiten het drukke hele uur)
+  workflow_dispatch:        # knop om 'm handmatig te draaien
+
+permissions:
+  contents: write           # nodig om state.json terug te committen
+
+concurrency:
+  group: cabaret-watcher
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check de agenda
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python3 watch.py --genre cabaret
+
+      - name: Bewaar de nieuwe stand
+        run: |
+          if [ -n "$(git status --porcelain state.json)" ]; then
+            git config user.name  "cabaret-watcher"
+            git config user.email "actions@github.com"
+            git add state.json
+            git commit -m "stand bijgewerkt $(date -u '+%Y-%m-%d %H:%M')"
+            git push
+          else
+            echo "niks veranderd"
+          fi

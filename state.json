@@ -1,0 +1,1556 @@
+{
+ "laatst": "2026-08-29T18:01:12",
+ "genre": "cabaret",
+ "shows": {
+  "/agenda/seizoen-2026-2027/de-interventie-emmy-krooshof-nick-van-keulen-en-erik-boddeus": {
+   "id": "/agenda/seizoen-2026-2027/de-interventie-emmy-krooshof-nick-van-keulen-en-erik-boddeus",
+   "titel": "De Interventie",
+   "artiest": "Emmy Krooshof, Nick van Keulen en Erik Boddeüs",
+   "datum": "do 10 sep 2026 - 20:30",
+   "datum_iso": "10-9-2026 20:30:00",
+   "zaal": "Blauwe Zaal",
+   "tags": [
+    "Cabaret",
+    "Amateuruitvoering"
+   ],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/de-interventie-emmy-krooshof-nick-van-keulen-en-erik-boddeus"
+  },
+  "/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-1-flunknarf": {
+   "id": "/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-1-flunknarf",
+   "titel": "Niet zomaar een Pubquiz #1",
+   "artiest": "Flunknarf",
+   "datum": "zo 13 sep 2026 - 20:30",
+   "datum_iso": "13-9-2026 20:30:00",
+   "zaal": "Mevr. Dudok",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-1-flunknarf"
+  },
+  "/agenda/seizoen-2026-2027/cringe-johan-goossens-eva-hoeke-marie-koet-ea": {
+   "id": "/agenda/seizoen-2026-2027/cringe-johan-goossens-eva-hoeke-marie-koet-ea",
+   "titel": "Cringe",
+   "artiest": "Johan Goossens, Eva Hoeke, Marie Koet e.a.",
+   "datum": "zo 20 sep 2026 - 20:00",
+   "datum_iso": "20-9-2026 20:00:00",
+   "zaal": "Grote Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/cringe-johan-goossens-eva-hoeke-marie-koet-ea"
+  },
+  "/agenda/seizoen-2026-2027/de-orde-van-de-dag-12-het-nut": {
+   "id": "/agenda/seizoen-2026-2027/de-orde-van-de-dag-12-het-nut",
+   "titel": "De Orde van de Dag #12",
+   "artiest": "Het NUT",
+   "datum": "ma 21 sep 2026 - 20:30",
+   "datum_iso": "21-9-2026 20:30:00",
+   "zaal": "Blauwe Zaal",
+   "tags": [
+    "Cabaret",
+    "Show",
+    "Verdieping",
+    "Toneel"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/de-orde-van-de-dag-12-het-nut"
+  },
+  "/agenda/seizoen-2026-2027/double-dutch-2-derek-mitchell": {
+   "id": "/agenda/seizoen-2026-2027/double-dutch-2-derek-mitchell",
+   "titel": "Double Dutch 2",
+   "artiest": "Derek Mitchell",
+   "datum": "zo 11 okt 2026 - 20:00",
+   "datum_iso": "11-10-2026 20:00:00",
+   "zaal": "Grote Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/double-dutch-2-derek-mitchell"
+  },
+  "/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-2-flunknarf": {
+   "id": "/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-2-flunknarf",
+   "titel": "Niet zomaar een Pubquiz #2",
+   "artiest": "Flunknarf",
+   "datum": "zo 18 okt 2026 - 20:30",
+   "datum_iso": "18-10-2026 20:30:00",
+   "zaal": "Mevr. Dudok",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-2-flunknarf"
+  },
+  "/agenda/seizoen-2026-2027/lachen-met-volle-mond-1-berit-companjen-en-het-comedy-talent-van-het-momen": {
+   "id": "/agenda/seizoen-2026-2027/lachen-met-volle-mond-1-berit-companjen-en-het-comedy-talent-van-het-momen",
+   "titel": "Lachen met Volle Mond #1",
+   "artiest": "Berit Companjen en het Comedy Talent van het moment",
+   "datum": "ma 19 okt 2026 - 19:00",
+   "datum_iso": "19-10-2026 19:00:00",
+   "zaal": "Zindering",
+   "tags": [
+    "Foodprogramma",
+    "Cabaret"
+   ],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/lachen-met-volle-mond-1-berit-companjen-en-het-comedy-talent-van-het-momen"
+  },
+  "/agenda/seizoen-2026-2027/de-orde-van-de-dag-13-het-nut": {
+   "id": "/agenda/seizoen-2026-2027/de-orde-van-de-dag-13-het-nut",
+   "titel": "De Orde van de Dag #13",
+   "artiest": "Het NUT",
+   "datum": "ma 19 okt 2026 - 20:30",
+   "datum_iso": "19-10-2026 20:30:00",
+   "zaal": "Blauwe Zaal",
+   "tags": [
+    "Cabaret",
+    "Show",
+    "Verdieping",
+    "Toneel"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/de-orde-van-de-dag-13-het-nut"
+  },
+  "/agenda/seizoen-2026-2027/keanu-henry-van-loon": {
+   "id": "/agenda/seizoen-2026-2027/keanu-henry-van-loon",
+   "titel": "Keanu",
+   "artiest": "Henry van Loon",
+   "datum": "do 29 okt 2026 - 20:00",
+   "datum_iso": "29-10-2026 20:00:00",
+   "zaal": "Grote Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht",
+    "reprise",
+    "reprise"
+   ],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/keanu-henry-van-loon"
+  },
+  "/agenda/seizoen-2026-2027/ik-beloof-je-eeuwige-twijfel-juliet": {
+   "id": "/agenda/seizoen-2026-2027/ik-beloof-je-eeuwige-twijfel-juliet",
+   "titel": "Ik beloof je eeuwige twijfel",
+   "artiest": "Juliet",
+   "datum": "vr 30 okt 2026 - 20:30",
+   "datum_iso": "30-10-2026 20:30:00",
+   "zaal": "Blauwe Zaal",
+   "tags": [
+    "Cabaret",
+    "Muziektheater"
+   ],
+   "uitverkocht": false,
+   "labels": [
+    "reprise",
+    "reprise"
+   ],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/ik-beloof-je-eeuwige-twijfel-juliet"
+  },
+  "/agenda/seizoen-2026-2027/rekhalzen-yentl-en-de-boer": {
+   "id": "/agenda/seizoen-2026-2027/rekhalzen-yentl-en-de-boer",
+   "titel": "Rekhalzen",
+   "artiest": "Yentl en de Boer",
+   "datum": "wo 04 nov 2026 - 20:00",
+   "datum_iso": "4-11-2026 20:00:00",
+   "zaal": "Grote Zaal",
+   "tags": [
+    "Cabaret",
+    "Muziektheater"
+   ],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht",
+    "reprise",
+    "reprise"
+   ],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/rekhalzen-yentl-en-de-boer"
+  },
+  "/agenda/seizoen-2026-2027/king-me-250-years-of-donald-trum-greg-shapiro": {
+   "id": "/agenda/seizoen-2026-2027/king-me-250-years-of-donald-trum-greg-shapiro",
+   "titel": "KING ME - 250 Years of Donald Trump",
+   "artiest": "Greg Shapiro",
+   "datum": "vr 06 nov 2026 - 20:30",
+   "datum_iso": "6-11-2026 20:30:00",
+   "zaal": "Blauwe Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/king-me-250-years-of-donald-trum-greg-shapiro"
+  },
+  "/agenda/seizoen-2026-2027/de-orde-van-de-dag-14-het-nut": {
+   "id": "/agenda/seizoen-2026-2027/de-orde-van-de-dag-14-het-nut",
+   "titel": "De Orde van de Dag #14",
+   "artiest": "Het NUT",
+   "datum": "ma 09 nov 2026 - 20:30",
+   "datum_iso": "9-11-2026 20:30:00",
+   "zaal": "Blauwe Zaal",
+   "tags": [
+    "Cabaret",
+    "Show",
+    "Verdieping",
+    "Toneel"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/de-orde-van-de-dag-14-het-nut"
+  },
+  "/agenda/seizoen-2026-2027/bedankt-om-te-komen-jade-mintjens": {
+   "id": "/agenda/seizoen-2026-2027/bedankt-om-te-komen-jade-mintjens",
+   "titel": "Bedankt om te komen",
+   "artiest": "Jade Mintjens",
+   "datum": "di 10 nov 2026 - 20:30",
+   "datum_iso": "10-11-2026 20:30:00",
+   "zaal": "Blauwe Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/bedankt-om-te-komen-jade-mintjens"
+  },
+  "/agenda/seizoen-2026-2027/prikkelarme-kermis-sara-kroos": {
+   "id": "/agenda/seizoen-2026-2027/prikkelarme-kermis-sara-kroos",
+   "titel": "Prikkelarme kermis",
+   "artiest": "Sara Kroos",
+   "datum": "do 12 nov 2026 - 20:00",
+   "datum_iso": "12-11-2026 20:00:00",
+   "zaal": "Grote Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [
+    "reprise",
+    "reprise"
+   ],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/prikkelarme-kermis-sara-kroos"
+  },
+  "/agenda/seizoen-2026-2027/het-goede-voorbeeld-vlamousse": {
+   "id": "/agenda/seizoen-2026-2027/het-goede-voorbeeld-vlamousse",
+   "titel": "Het goede voorbeeld",
+   "artiest": "Vlamousse",
+   "datum": "za 14 nov 2026 - 20:30",
+   "datum_iso": "14-11-2026 20:30:00",
+   "zaal": "Blauwe Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/het-goede-voorbeeld-vlamousse"
+  },
+  "/agenda/seizoen-2026-2027/striptease-van-de-dood-david-linszen": {
+   "id": "/agenda/seizoen-2026-2027/striptease-van-de-dood-david-linszen",
+   "titel": "Striptease Van De Dood",
+   "artiest": "David Linszen",
+   "datum": "di 17 nov 2026 - 20:30",
+   "datum_iso": "17-11-2026 20:30:00",
+   "zaal": "Blauwe Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht",
+    "reprise",
+    "reprise"
+   ],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/striptease-van-de-dood-david-linszen"
+  },
+  "/agenda/seizoen-2026-2027/en-verbied-vogels-om-te-fluiten-ayoub": {
+   "id": "/agenda/seizoen-2026-2027/en-verbied-vogels-om-te-fluiten-ayoub",
+   "titel": "En verbied vogels om te fluiten",
+   "artiest": "Ayoub",
+   "datum": "do 19 nov 2026 - 20:30",
+   "datum_iso": "19-11-2026 20:30:00",
+   "zaal": "Blauwe Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/en-verbied-vogels-om-te-fluiten-ayoub"
+  },
+  "/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-3-flunknarf": {
+   "id": "/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-3-flunknarf",
+   "titel": "Niet zomaar een Pubquiz #3",
+   "artiest": "Flunknarf",
+   "datum": "zo 22 nov 2026 - 20:30",
+   "datum_iso": "22-11-2026 20:30:00",
+   "zaal": "Mevr. Dudok",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-3-flunknarf"
+  },
+  "/agenda/seizoen-2026-2027/lachen-met-volle-mond-2-berit-companjen-en-het-comedy-talent-van-het-momen": {
+   "id": "/agenda/seizoen-2026-2027/lachen-met-volle-mond-2-berit-companjen-en-het-comedy-talent-van-het-momen",
+   "titel": "Lachen met Volle Mond #2",
+   "artiest": "Berit Companjen en het Comedy Talent van het moment",
+   "datum": "ma 23 nov 2026 - 19:00",
+   "datum_iso": "23-11-2026 19:00:00",
+   "zaal": "Zindering",
+   "tags": [
+    "Foodprogramma",
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/lachen-met-volle-mond-2-berit-companjen-en-het-comedy-talent-van-het-momen"
+  },
+  "/agenda/seizoen-2026-2027/aan-mij-zal-het-niet-liggen-marjolijn-van-kooten": {
+   "id": "/agenda/seizoen-2026-2027/aan-mij-zal-het-niet-liggen-marjolijn-van-kooten",
+   "titel": "Aan mij zal het niet liggen",
+   "artiest": "Marjolijn van Kooten",
+   "datum": "wo 25 nov 2026 - 20:30",
+   "datum_iso": "25-11-2026 20:30:00",
+   "zaal": "Blauwe Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/aan-mij-zal-het-niet-liggen-marjolijn-van-kooten"
+  },
+  "/agenda/seizoen-2026-2027/op-scherp-jasper-van-der-veen": {
+   "id": "/agenda/seizoen-2026-2027/op-scherp-jasper-van-der-veen",
+   "titel": "Op Scherp",
+   "artiest": "Jasper van der Veen",
+   "datum": "di 01 dec 2026 - 20:30",
+   "datum_iso": "1-12-2026 20:30:00",
+   "zaal": "Blauwe Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [
+    "reprise",
+    "reprise"
+   ],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/op-scherp-jasper-van-der-veen"
+  },
+  "/agenda/seizoen-2026-2027/oudejaarsconference-2026-claudia-de-breij": {
+   "id": "/agenda/seizoen-2026-2027/oudejaarsconference-2026-claudia-de-breij",
+   "titel": "Oudejaarsconference 2026",
+   "artiest": "Claudia de Breij",
+   "datum": "do 03 dec 2026 - 20:00",
+   "datum_iso": "3-12-2026 20:00:00",
+   "zaal": "Grote Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/oudejaarsconference-2026-claudia-de-breij"
+  },
+  "/agenda/seizoen-2026-2027/rare-leeftijd-ricky-koole": {
+   "id": "/agenda/seizoen-2026-2027/rare-leeftijd-ricky-koole",
+   "titel": "Rare Leeftijd",
+   "artiest": "Ricky Koole",
+   "datum": "zo 06 dec 2026 - 20:30",
+   "datum_iso": "6-12-2026 20:30:00",
+   "zaal": "Blauwe Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/rare-leeftijd-ricky-koole"
+  },
+  "/agenda/seizoen-2026-2027/vrouwejaars-2026-yora-rienstra-vera-marijt-ea": {
+   "id": "/agenda/seizoen-2026-2027/vrouwejaars-2026-yora-rienstra-vera-marijt-ea",
+   "titel": "Vrouwejaars 2026",
+   "artiest": "Yora Rienstra, Vera Marijt e.a.",
+   "datum": "ma 07 dec 2026 - 20:00",
+   "datum_iso": "7-12-2026 20:00:00",
+   "zaal": "Grote Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/vrouwejaars-2026-yora-rienstra-vera-marijt-ea"
+  },
+  "/agenda/seizoen-2026-2027/finalistentournee-2026-amsterdams-kleinkunst-festival": {
+   "id": "/agenda/seizoen-2026-2027/finalistentournee-2026-amsterdams-kleinkunst-festival",
+   "titel": "Finalistentournee 2026",
+   "artiest": "Amsterdams Kleinkunst Festival",
+   "datum": "di 08 dec 2026 - 20:30",
+   "datum_iso": "8-12-2026 20:30:00",
+   "zaal": "Blauwe Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/finalistentournee-2026-amsterdams-kleinkunst-festival"
+  },
+  "/agenda/seizoen-2026-2027/de-orde-van-de-dag-15-het-nut": {
+   "id": "/agenda/seizoen-2026-2027/de-orde-van-de-dag-15-het-nut",
+   "titel": "De Orde van de Dag #15",
+   "artiest": "Het NUT",
+   "datum": "ma 14 dec 2026 - 20:30",
+   "datum_iso": "14-12-2026 20:30:00",
+   "zaal": "Blauwe Zaal",
+   "tags": [
+    "Cabaret",
+    "Show",
+    "Verdieping",
+    "Toneel"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/de-orde-van-de-dag-15-het-nut"
+  },
+  "/agenda/seizoen-2026-2027/rudsichtslos-ruud-smulders": {
+   "id": "/agenda/seizoen-2026-2027/rudsichtslos-ruud-smulders",
+   "titel": "RÜDSICHTSLOS",
+   "artiest": "Ruud Smulders",
+   "datum": "za 19 dec 2026 - 20:00",
+   "datum_iso": "19-12-2026 20:00:00",
+   "zaal": "Grote Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [
+    "reprise",
+    "reprise"
+   ],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/rudsichtslos-ruud-smulders"
+  },
+  "/agenda/seizoen-2026-2027/zeg-maar-u-de-broers-van-arkel": {
+   "id": "/agenda/seizoen-2026-2027/zeg-maar-u-de-broers-van-arkel",
+   "titel": "Zeg maar u",
+   "artiest": "De Broers van Arkel",
+   "datum": "za 19 dec 2026 - 20:30",
+   "datum_iso": "19-12-2026 20:30:00",
+   "zaal": "Blauwe Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/zeg-maar-u-de-broers-van-arkel"
+  },
+  "/agenda/seizoen-2026-2027/de-nogal-hyperbijzondere-oudejaa-andries-tunru-stefan-hendrikx": {
+   "id": "/agenda/seizoen-2026-2027/de-nogal-hyperbijzondere-oudejaa-andries-tunru-stefan-hendrikx",
+   "titel": "De nogal hyperbijzondere Oudejaars-improvisatie-extravaganza 2026",
+   "artiest": "Andries Tunru & Stefan Hendrikx",
+   "datum": "di 29 dec 2026 - 20:00",
+   "datum_iso": "29-12-2026 20:00:00",
+   "zaal": "Grote Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/de-nogal-hyperbijzondere-oudejaa-andries-tunru-stefan-hendrikx"
+  },
+  "/agenda/seizoen-2026-2027/oudejaars-2026-dolf-jansen": {
+   "id": "/agenda/seizoen-2026-2027/oudejaars-2026-dolf-jansen",
+   "titel": "Oudejaars 2026",
+   "artiest": "Dolf Jansen",
+   "datum": "do 31 dec 2026 - 14:00",
+   "datum_iso": "31-12-2026 14:00:00",
+   "zaal": "Grote Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/oudejaars-2026-dolf-jansen"
+  },
+  "/agenda/seizoen-2026-2027/finalistentournee-2026-cameretten": {
+   "id": "/agenda/seizoen-2026-2027/finalistentournee-2026-cameretten",
+   "titel": "Finalistentournee 2026",
+   "artiest": "Cameretten",
+   "datum": "wo 06 jan 2027 - 20:30",
+   "datum_iso": "6-1-2027 20:30:00",
+   "zaal": "Blauwe Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/finalistentournee-2026-cameretten"
+  },
+  "/agenda/seizoen-2026-2027/welkom-ongemak-wim-helsen": {
+   "id": "/agenda/seizoen-2026-2027/welkom-ongemak-wim-helsen",
+   "titel": "Welkom Ongemak",
+   "artiest": "Wim Helsen",
+   "datum": "za 09 jan 2027 - 20:00",
+   "datum_iso": "9-1-2027 20:00:00",
+   "zaal": "Grote Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [
+    "reprise",
+    "reprise"
+   ],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/welkom-ongemak-wim-helsen"
+  },
+  "/agenda/seizoen-2026-2027/de-orde-van-de-dag-16-het-nut": {
+   "id": "/agenda/seizoen-2026-2027/de-orde-van-de-dag-16-het-nut",
+   "titel": "De Orde van de Dag #16",
+   "artiest": "Het NUT",
+   "datum": "ma 11 jan 2027 - 20:30",
+   "datum_iso": "11-1-2027 20:30:00",
+   "zaal": "Blauwe Zaal",
+   "tags": [
+    "Cabaret",
+    "Show",
+    "Verdieping",
+    "Toneel"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/de-orde-van-de-dag-16-het-nut"
+  },
+  "/agenda/seizoen-2026-2027/mensenmens-daan-van-der-hoeven": {
+   "id": "/agenda/seizoen-2026-2027/mensenmens-daan-van-der-hoeven",
+   "titel": "Mensenmens",
+   "artiest": "Daan van der Hoeven",
+   "datum": "di 12 jan 2027 - 20:00",
+   "datum_iso": "12-1-2027 20:00:00",
+   "zaal": "Grote Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [
+    "reprise",
+    "reprise"
+   ],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/mensenmens-daan-van-der-hoeven"
+  },
+  "/agenda/seizoen-2026-2027/dekpunt-jan-beuving": {
+   "id": "/agenda/seizoen-2026-2027/dekpunt-jan-beuving",
+   "titel": "Dekpunt",
+   "artiest": "Jan Beuving",
+   "datum": "do 14 jan 2027 - 20:00",
+   "datum_iso": "14-1-2027 20:00:00",
+   "zaal": "Grote Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/dekpunt-jan-beuving"
+  },
+  "/agenda/seizoen-2026-2027/de-baas-lisa-ostermann": {
+   "id": "/agenda/seizoen-2026-2027/de-baas-lisa-ostermann",
+   "titel": "De Baas",
+   "artiest": "Lisa Ostermann",
+   "datum": "vr 15 jan 2027 - 20:00",
+   "datum_iso": "15-1-2027 20:00:00",
+   "zaal": "Grote Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht",
+    "reprise",
+    "reprise"
+   ],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/de-baas-lisa-ostermann"
+  },
+  "/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-4-flunknarf": {
+   "id": "/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-4-flunknarf",
+   "titel": "Niet zomaar een Pubquiz #4",
+   "artiest": "Flunknarf",
+   "datum": "zo 17 jan 2027 - 20:30",
+   "datum_iso": "17-1-2027 20:30:00",
+   "zaal": "Mevr. Dudok",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-4-flunknarf"
+  },
+  "/agenda/seizoen-2026-2027/halve-finale-comedy-talent-award-utrechts-international-comedy-festival": {
+   "id": "/agenda/seizoen-2026-2027/halve-finale-comedy-talent-award-utrechts-international-comedy-festival",
+   "titel": "Halve Finale - Comedy Talent Award",
+   "artiest": "Utrechts International Comedy Festival",
+   "datum": "ma 18 jan 2027 - 20:30",
+   "datum_iso": "18-1-2027 20:30:00",
+   "zaal": "Blauwe Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/halve-finale-comedy-talent-award-utrechts-international-comedy-festival"
+  },
+  "/agenda/seizoen-2026-2027/kintsugi-patrick-laureij": {
+   "id": "/agenda/seizoen-2026-2027/kintsugi-patrick-laureij",
+   "titel": "Kintsugi.",
+   "artiest": "Patrick Laureij",
+   "datum": "di 19 jan 2027 - 20:00",
+   "datum_iso": "19-1-2027 20:00:00",
+   "zaal": "Grote Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [
+    "reprise",
+    "reprise"
+   ],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/kintsugi-patrick-laureij"
+  },
+  "/agenda/seizoen-2026-2027/gelukkig-maar-myrte-siebinga": {
+   "id": "/agenda/seizoen-2026-2027/gelukkig-maar-myrte-siebinga",
+   "titel": "GELUKKIG MAAR",
+   "artiest": "Myrte Siebinga",
+   "datum": "wo 20 jan 2027 - 20:30",
+   "datum_iso": "20-1-2027 20:30:00",
+   "zaal": "Blauwe Zaal",
+   "tags": [
+    "geannuleerd",
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/gelukkig-maar-myrte-siebinga"
+  },
+  "/agenda/seizoen-2026-2027/micha-wertheim-voor-iedereen-micha-wertheim": {
+   "id": "/agenda/seizoen-2026-2027/micha-wertheim-voor-iedereen-micha-wertheim",
+   "titel": "Micha Wertheim Voor iedereen",
+   "artiest": "Micha Wertheim",
+   "datum": "za 23 jan 2027 - 20:00",
+   "datum_iso": "23-1-2027 20:00:00",
+   "zaal": "Grote Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht",
+    "reprise",
+    "reprise"
+   ],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/micha-wertheim-voor-iedereen-micha-wertheim"
+  },
+  "/agenda/seizoen-2026-2027/lachen-met-volle-mond-3-berit-companjen-en-het-comedy-talent-van-het-momen": {
+   "id": "/agenda/seizoen-2026-2027/lachen-met-volle-mond-3-berit-companjen-en-het-comedy-talent-van-het-momen",
+   "titel": "Lachen met Volle Mond #3",
+   "artiest": "Berit Companjen en het Comedy Talent van het moment",
+   "datum": "ma 25 jan 2027 - 19:00",
+   "datum_iso": "25-1-2027 19:00:00",
+   "zaal": "Zindering",
+   "tags": [
+    "Foodprogramma",
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/lachen-met-volle-mond-3-berit-companjen-en-het-comedy-talent-van-het-momen"
+  },
+  "/agenda/seizoen-2026-2027/tis-hier-geen-hotel-3-hanneke-drenth-dianne-liesker": {
+   "id": "/agenda/seizoen-2026-2027/tis-hier-geen-hotel-3-hanneke-drenth-dianne-liesker",
+   "titel": "Tis hier geen hotel 3",
+   "artiest": "Hanneke Drenth & Dianne Liesker",
+   "datum": "wo 27 jan 2027 - 20:00",
+   "datum_iso": "27-1-2027 20:00:00",
+   "zaal": "Grote Zaal",
+   "tags": [
+    "Cabaret",
+    "Toneel"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/tis-hier-geen-hotel-3-hanneke-drenth-dianne-liesker"
+  },
+  "/agenda/seizoen-2026-2027/altijd-aan-pieter-verelst": {
+   "id": "/agenda/seizoen-2026-2027/altijd-aan-pieter-verelst",
+   "titel": "Altijd aan",
+   "artiest": "Pieter Verelst",
+   "datum": "wo 27 jan 2027 - 20:30",
+   "datum_iso": "27-1-2027 20:30:00",
+   "zaal": "Blauwe Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/altijd-aan-pieter-verelst"
+  },
+  "/agenda/seizoen-2026-2027/ziel-zalig-joost-spijkers": {
+   "id": "/agenda/seizoen-2026-2027/ziel-zalig-joost-spijkers",
+   "titel": "ZIEL & ZALIG",
+   "artiest": "Joost Spijkers",
+   "datum": "do 28 jan 2027 - 20:30",
+   "datum_iso": "28-1-2027 20:30:00",
+   "zaal": "Blauwe Zaal",
+   "tags": [
+    "Cabaret",
+    "Muziektheater"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/ziel-zalig-joost-spijkers"
+  },
+  "/agenda/seizoen-2026-2027/mijn-lieve-achterdocht-ronald-goedemondt": {
+   "id": "/agenda/seizoen-2026-2027/mijn-lieve-achterdocht-ronald-goedemondt",
+   "titel": "Mijn Lieve Achterdocht",
+   "artiest": "Ronald Goedemondt",
+   "datum": "vr 05 feb 2027 - 20:00",
+   "datum_iso": "5-2-2027 20:00:00",
+   "zaal": "Grote Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/mijn-lieve-achterdocht-ronald-goedemondt"
+  },
+  "/agenda/seizoen-2026-2027/korthals-in-stukken-louise-korthals": {
+   "id": "/agenda/seizoen-2026-2027/korthals-in-stukken-louise-korthals",
+   "titel": "Korthals in stukken",
+   "artiest": "Louise Korthals",
+   "datum": "vr 05 feb 2027 - 20:30",
+   "datum_iso": "5-2-2027 20:30:00",
+   "zaal": "Blauwe Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht",
+    "reprise",
+    "reprise"
+   ],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/korthals-in-stukken-louise-korthals"
+  },
+  "/agenda/seizoen-2026-2027/op-zekere-dag-kamagurka": {
+   "id": "/agenda/seizoen-2026-2027/op-zekere-dag-kamagurka",
+   "titel": "Op zekere dag",
+   "artiest": "Kamagurka",
+   "datum": "wo 10 feb 2027 - 20:30",
+   "datum_iso": "10-2-2027 20:30:00",
+   "zaal": "Blauwe Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/op-zekere-dag-kamagurka"
+  },
+  "/agenda/seizoen-2026-2027/dinsdagmiddag-van-der-laan-woe": {
+   "id": "/agenda/seizoen-2026-2027/dinsdagmiddag-van-der-laan-woe",
+   "titel": "Dinsdagmiddag",
+   "artiest": "Van der Laan & Woe",
+   "datum": "do 11 feb 2027 - 20:00",
+   "datum_iso": "11-2-2027 20:00:00",
+   "zaal": "Grote Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/dinsdagmiddag-van-der-laan-woe"
+  },
+  "/agenda/seizoen-2026-2027/verbroedering-roel-en-jos-maalderink": {
+   "id": "/agenda/seizoen-2026-2027/verbroedering-roel-en-jos-maalderink",
+   "titel": "Verbroedering",
+   "artiest": "Roel en Jos Maalderink",
+   "datum": "za 13 feb 2027 - 20:00",
+   "datum_iso": "13-2-2027 20:00:00",
+   "zaal": "Grote Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [
+    "reprise",
+    "reprise"
+   ],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/verbroedering-roel-en-jos-maalderink"
+  },
+  "/agenda/seizoen-2026-2027/de-orde-van-de-dag-17-het-nut": {
+   "id": "/agenda/seizoen-2026-2027/de-orde-van-de-dag-17-het-nut",
+   "titel": "De Orde van de Dag #17",
+   "artiest": "Het NUT",
+   "datum": "ma 15 feb 2027 - 20:30",
+   "datum_iso": "15-2-2027 20:30:00",
+   "zaal": "Blauwe Zaal",
+   "tags": [
+    "Cabaret",
+    "Show",
+    "Verdieping",
+    "Toneel"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/de-orde-van-de-dag-17-het-nut"
+  },
+  "/agenda/seizoen-2026-2027/als-ik-jou-was-david-van-rosmalen": {
+   "id": "/agenda/seizoen-2026-2027/als-ik-jou-was-david-van-rosmalen",
+   "titel": "Als ik jou was",
+   "artiest": "David van Rosmalen",
+   "datum": "di 16 feb 2027 - 20:30",
+   "datum_iso": "16-2-2027 20:30:00",
+   "zaal": "Blauwe Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/als-ik-jou-was-david-van-rosmalen"
+  },
+  "/agenda/seizoen-2026-2027/babel-kommil-foo": {
+   "id": "/agenda/seizoen-2026-2027/babel-kommil-foo",
+   "titel": "Babel",
+   "artiest": "Kommil Foo",
+   "datum": "vr 19 feb 2027 - 20:00",
+   "datum_iso": "19-2-2027 20:00:00",
+   "zaal": "Grote Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/babel-kommil-foo"
+  },
+  "/agenda/seizoen-2026-2027/poeha-blauwe-vinkjes": {
+   "id": "/agenda/seizoen-2026-2027/poeha-blauwe-vinkjes",
+   "titel": "Poeha",
+   "artiest": "Blauwe Vinkjes",
+   "datum": "za 20 feb 2027 - 20:30",
+   "datum_iso": "20-2-2027 20:30:00",
+   "zaal": "Blauwe Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/poeha-blauwe-vinkjes"
+  },
+  "/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-5-flunknarf": {
+   "id": "/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-5-flunknarf",
+   "titel": "Niet zomaar een Pubquiz #5",
+   "artiest": "Flunknarf",
+   "datum": "zo 21 feb 2027 - 20:30",
+   "datum_iso": "21-2-2027 20:30:00",
+   "zaal": "Mevr. Dudok",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-5-flunknarf"
+  },
+  "/agenda/seizoen-2026-2027/gelukkig-heb-je-mij-nog-richard-groenendijk": {
+   "id": "/agenda/seizoen-2026-2027/gelukkig-heb-je-mij-nog-richard-groenendijk",
+   "titel": "Gelukkig heb je mij nog",
+   "artiest": "Richard Groenendijk",
+   "datum": "wo 24 feb 2027 - 20:00",
+   "datum_iso": "24-2-2027 20:00:00",
+   "zaal": "Grote Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/gelukkig-heb-je-mij-nog-richard-groenendijk"
+  },
+  "/agenda/seizoen-2026-2027/freedom-is-no-joke-2027-utrechts-international-comedy-festival": {
+   "id": "/agenda/seizoen-2026-2027/freedom-is-no-joke-2027-utrechts-international-comedy-festival",
+   "titel": "Freedom is No Joke 2027",
+   "artiest": "Utrechts International Comedy Festival",
+   "datum": "ma 01 mrt 2027 - 20:30",
+   "datum_iso": "1-3-2027 20:30:00",
+   "zaal": "Blauwe Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/freedom-is-no-joke-2027-utrechts-international-comedy-festival"
+  },
+  "/agenda/seizoen-2026-2027/ricky-risolles-3-niet-zo-indiscr-team-ricky-risolles": {
+   "id": "/agenda/seizoen-2026-2027/ricky-risolles-3-niet-zo-indiscr-team-ricky-risolles",
+   "titel": "Ricky Risolles 3 - Niet zo Indiscreet…",
+   "artiest": "Team Ricky Risolles",
+   "datum": "vr 05 mrt 2027 - 20:00",
+   "datum_iso": "5-3-2027 20:00:00",
+   "zaal": "Grote Zaal",
+   "tags": [
+    "Cabaret",
+    "Show"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/ricky-risolles-3-niet-zo-indiscr-team-ricky-risolles"
+  },
+  "/agenda/seizoen-2026-2027/ruim-kasper-van-der-laan": {
+   "id": "/agenda/seizoen-2026-2027/ruim-kasper-van-der-laan",
+   "titel": "Ruim",
+   "artiest": "Kasper van der Laan",
+   "datum": "ma 08 mrt 2027 - 20:00",
+   "datum_iso": "8-3-2027 20:00:00",
+   "zaal": "Grote Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/ruim-kasper-van-der-laan"
+  },
+  "/agenda/seizoen-2026-2027/de-orde-van-de-dag-18-het-nut": {
+   "id": "/agenda/seizoen-2026-2027/de-orde-van-de-dag-18-het-nut",
+   "titel": "De Orde van de Dag #18",
+   "artiest": "Het NUT",
+   "datum": "ma 08 mrt 2027 - 20:30",
+   "datum_iso": "8-3-2027 20:30:00",
+   "zaal": "Blauwe Zaal",
+   "tags": [
+    "Cabaret",
+    "Show",
+    "Verdieping",
+    "Toneel"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/de-orde-van-de-dag-18-het-nut"
+  },
+  "/agenda/seizoen-2026-2027/de-eenzame-ziel-andre-manuel": {
+   "id": "/agenda/seizoen-2026-2027/de-eenzame-ziel-andre-manuel",
+   "titel": "De Eenzame Ziel",
+   "artiest": "André Manuel",
+   "datum": "do 11 mrt 2027 - 20:30",
+   "datum_iso": "11-3-2027 20:30:00",
+   "zaal": "Blauwe Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/de-eenzame-ziel-andre-manuel"
+  },
+  "/agenda/seizoen-2026-2027/pluk-eventueel-de-dag-janneke-de-bijl": {
+   "id": "/agenda/seizoen-2026-2027/pluk-eventueel-de-dag-janneke-de-bijl",
+   "titel": "Pluk eventueel de dag",
+   "artiest": "Janneke de Bijl",
+   "datum": "vr 12 mrt 2027 - 20:00",
+   "datum_iso": "12-3-2027 20:00:00",
+   "zaal": "Grote Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [
+    "reprise",
+    "reprise"
+   ],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/pluk-eventueel-de-dag-janneke-de-bijl"
+  },
+  "/agenda/seizoen-2026-2027/niks-aan-het-handje-joosen-en-de-jager": {
+   "id": "/agenda/seizoen-2026-2027/niks-aan-het-handje-joosen-en-de-jager",
+   "titel": "Niks aan het handje",
+   "artiest": "Joosen en de Jager",
+   "datum": "za 13 mrt 2027 - 20:30",
+   "datum_iso": "13-3-2027 20:30:00",
+   "zaal": "Blauwe Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/niks-aan-het-handje-joosen-en-de-jager"
+  },
+  "/agenda/seizoen-2026-2027/we-zien-het-wel-even-hokjesdenker": {
+   "id": "/agenda/seizoen-2026-2027/we-zien-het-wel-even-hokjesdenker",
+   "titel": "WE ZIEN HET WEL EVEN",
+   "artiest": "Hokjesdenker",
+   "datum": "zo 14 mrt 2027 - 16:30",
+   "datum_iso": "14-3-2027 16:30:00",
+   "zaal": "Blauwe Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/we-zien-het-wel-even-hokjesdenker"
+  },
+  "/agenda/seizoen-2026-2027/baby-reindeer-kobra-theaterproducties-thijs-van-de-meeberg": {
+   "id": "/agenda/seizoen-2026-2027/baby-reindeer-kobra-theaterproducties-thijs-van-de-meeberg",
+   "titel": "Baby Reindeer",
+   "artiest": "Kobra theaterproducties | Thijs van de Meeberg",
+   "datum": "wo 17 mrt 2027 - 20:00",
+   "datum_iso": "17-3-2027 20:00:00",
+   "zaal": "Grote Zaal",
+   "tags": [
+    "Cabaret",
+    "Toneel"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/baby-reindeer-kobra-theaterproducties-thijs-van-de-meeberg"
+  },
+  "/agenda/seizoen-2026-2027/marko-maandag-remko-vrijdag": {
+   "id": "/agenda/seizoen-2026-2027/marko-maandag-remko-vrijdag",
+   "titel": "Marko Maandag",
+   "artiest": "Remko Vrijdag",
+   "datum": "vr 19 mrt 2027 - 20:00",
+   "datum_iso": "19-3-2027 20:00:00",
+   "zaal": "Grote Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/marko-maandag-remko-vrijdag"
+  },
+  "/agenda/seizoen-2026-2027/472000--oscar-smit": {
+   "id": "/agenda/seizoen-2026-2027/472000--oscar-smit",
+   "titel": "€472.000,-",
+   "artiest": "Oscar Smit",
+   "datum": "za 20 mrt 2027 - 20:30",
+   "datum_iso": "20-3-2027 20:30:00",
+   "zaal": "Blauwe Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/472000--oscar-smit"
+  },
+  "/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-6-flunknarf": {
+   "id": "/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-6-flunknarf",
+   "titel": "Niet zomaar een Pubquiz #6",
+   "artiest": "Flunknarf",
+   "datum": "zo 21 mrt 2027 - 20:30",
+   "datum_iso": "21-3-2027 20:30:00",
+   "zaal": "Mevr. Dudok",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-6-flunknarf"
+  },
+  "/agenda/seizoen-2026-2027/lachen-met-volle-mond-4-berit-companjen-en-het-comedy-talent-van-het-momen": {
+   "id": "/agenda/seizoen-2026-2027/lachen-met-volle-mond-4-berit-companjen-en-het-comedy-talent-van-het-momen",
+   "titel": "Lachen met Volle Mond #4",
+   "artiest": "Berit Companjen en het Comedy Talent van het moment",
+   "datum": "ma 22 mrt 2027 - 19:00",
+   "datum_iso": "22-3-2027 19:00:00",
+   "zaal": "Zindering",
+   "tags": [
+    "Foodprogramma",
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/lachen-met-volle-mond-4-berit-companjen-en-het-comedy-talent-van-het-momen"
+  },
+  "/agenda/seizoen-2026-2027/bruto-boban-benjamin-braspenning": {
+   "id": "/agenda/seizoen-2026-2027/bruto-boban-benjamin-braspenning",
+   "titel": "BRUTO",
+   "artiest": "Boban Benjamin Braspenning",
+   "datum": "di 23 mrt 2027 - 20:30",
+   "datum_iso": "23-3-2027 20:30:00",
+   "zaal": "Blauwe Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [
+    "reprise",
+    "reprise"
+   ],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/bruto-boban-benjamin-braspenning"
+  },
+  "/agenda/seizoen-2026-2027/satan-is-moe-lebbis": {
+   "id": "/agenda/seizoen-2026-2027/satan-is-moe-lebbis",
+   "titel": "Satan is moe",
+   "artiest": "Lebbis",
+   "datum": "do 25 mrt 2027 - 20:00",
+   "datum_iso": "25-3-2027 20:00:00",
+   "zaal": "Grote Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/satan-is-moe-lebbis"
+  },
+  "/agenda/seizoen-2026-2027/overprikkeld-martijn-koning": {
+   "id": "/agenda/seizoen-2026-2027/overprikkeld-martijn-koning",
+   "titel": "Overprikkeld",
+   "artiest": "Martijn Koning",
+   "datum": "wo 31 mrt 2027 - 20:00",
+   "datum_iso": "31-3-2027 20:00:00",
+   "zaal": "Grote Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/overprikkeld-martijn-koning"
+  },
+  "/agenda/seizoen-2026-2027/tnawies-jawad-es-soufi": {
+   "id": "/agenda/seizoen-2026-2027/tnawies-jawad-es-soufi",
+   "titel": "TNAWIES",
+   "artiest": "Jawad Es Soufi",
+   "datum": "vr 02 apr 2027 - 20:00",
+   "datum_iso": "2-4-2027 20:00:00",
+   "zaal": "Grote Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/tnawies-jawad-es-soufi"
+  },
+  "/agenda/seizoen-2026-2027/de-lieve-vrede-piet-van-eeghen": {
+   "id": "/agenda/seizoen-2026-2027/de-lieve-vrede-piet-van-eeghen",
+   "titel": "De Lieve Vrede",
+   "artiest": "Piet van Eeghen",
+   "datum": "za 03 apr 2027 - 20:30",
+   "datum_iso": "3-4-2027 20:30:00",
+   "zaal": "Blauwe Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/de-lieve-vrede-piet-van-eeghen"
+  },
+  "/agenda/seizoen-2026-2027/de-orde-van-de-dag-19-het-nut": {
+   "id": "/agenda/seizoen-2026-2027/de-orde-van-de-dag-19-het-nut",
+   "titel": "De Orde van de Dag #19",
+   "artiest": "Het NUT",
+   "datum": "ma 05 apr 2027 - 20:30",
+   "datum_iso": "5-4-2027 20:30:00",
+   "zaal": "Blauwe Zaal",
+   "tags": [
+    "Cabaret",
+    "Show",
+    "Verdieping",
+    "Toneel"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/de-orde-van-de-dag-19-het-nut"
+  },
+  "/agenda/seizoen-2026-2027/zoveel-meer-beth-flo": {
+   "id": "/agenda/seizoen-2026-2027/zoveel-meer-beth-flo",
+   "titel": "Zoveel meer",
+   "artiest": "Beth & Flo",
+   "datum": "vr 09 apr 2027 - 20:30",
+   "datum_iso": "9-4-2027 20:30:00",
+   "zaal": "Blauwe Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/zoveel-meer-beth-flo"
+  },
+  "/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-7-flunknarf": {
+   "id": "/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-7-flunknarf",
+   "titel": "Niet zomaar een Pubquiz #7",
+   "artiest": "Flunknarf",
+   "datum": "zo 18 apr 2027 - 20:30",
+   "datum_iso": "18-4-2027 20:30:00",
+   "zaal": "Mevr. Dudok",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-7-flunknarf"
+  },
+  "/agenda/seizoen-2026-2027/zwaargewicht-fimme-bakker": {
+   "id": "/agenda/seizoen-2026-2027/zwaargewicht-fimme-bakker",
+   "titel": "Zwaargewicht",
+   "artiest": "Fimme Bakker",
+   "datum": "di 20 apr 2027 - 20:30",
+   "datum_iso": "20-4-2027 20:30:00",
+   "zaal": "Blauwe Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/zwaargewicht-fimme-bakker"
+  },
+  "/agenda/seizoen-2026-2027/lachen-met-volle-mond-5-berit-companjen-en-het-comedy-talent-van-het-momen": {
+   "id": "/agenda/seizoen-2026-2027/lachen-met-volle-mond-5-berit-companjen-en-het-comedy-talent-van-het-momen",
+   "titel": "Lachen met Volle Mond #5",
+   "artiest": "Berit Companjen en het Comedy Talent van het moment",
+   "datum": "wo 21 apr 2027 - 19:00",
+   "datum_iso": "21-4-2027 19:00:00",
+   "zaal": "Zindering",
+   "tags": [
+    "Foodprogramma",
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/lachen-met-volle-mond-5-berit-companjen-en-het-comedy-talent-van-het-momen"
+  },
+  "/agenda/seizoen-2026-2027/juk-jeroens-clan": {
+   "id": "/agenda/seizoen-2026-2027/juk-jeroens-clan",
+   "titel": "JUK",
+   "artiest": "Jeroens Clan",
+   "datum": "za 24 apr 2027 - 20:30",
+   "datum_iso": "24-4-2027 20:30:00",
+   "zaal": "Blauwe Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/juk-jeroens-clan"
+  },
+  "/agenda/seizoen-2026-2027/alles-onder-controle-van-vleuten-van-muiswinkel": {
+   "id": "/agenda/seizoen-2026-2027/alles-onder-controle-van-vleuten-van-muiswinkel",
+   "titel": "Alles Onder Controle",
+   "artiest": "Van Vleuten & Van Muiswinkel",
+   "datum": "wo 28 apr 2027 - 20:00",
+   "datum_iso": "28-4-2027 20:00:00",
+   "zaal": "Grote Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/alles-onder-controle-van-vleuten-van-muiswinkel"
+  },
+  "/agenda/seizoen-2026-2027/peer-bob-koomen": {
+   "id": "/agenda/seizoen-2026-2027/peer-bob-koomen",
+   "titel": "Peer",
+   "artiest": "Bob Koomen",
+   "datum": "wo 28 apr 2027 - 20:30",
+   "datum_iso": "28-4-2027 20:30:00",
+   "zaal": "Blauwe Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/peer-bob-koomen"
+  },
+  "/agenda/seizoen-2026-2027/femme-vitaal-tineke-schouten": {
+   "id": "/agenda/seizoen-2026-2027/femme-vitaal-tineke-schouten",
+   "titel": "Femme Vitaal",
+   "artiest": "Tineke Schouten",
+   "datum": "do 06 mei 2027 - 20:00",
+   "datum_iso": "6-5-2027 20:00:00",
+   "zaal": "Grote Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [
+    "reprise",
+    "reprise"
+   ],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/femme-vitaal-tineke-schouten"
+  },
+  "/agenda/seizoen-2026-2027/populisme-de-musical-sem-konijn": {
+   "id": "/agenda/seizoen-2026-2027/populisme-de-musical-sem-konijn",
+   "titel": "Populisme de Musical",
+   "artiest": "Sem Konijn",
+   "datum": "vr 07 mei 2027 - 20:30",
+   "datum_iso": "7-5-2027 20:30:00",
+   "zaal": "Blauwe Zaal",
+   "tags": [
+    "Musical",
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/populisme-de-musical-sem-konijn"
+  },
+  "/agenda/seizoen-2026-2027/hardleers-kim-schuddeboom": {
+   "id": "/agenda/seizoen-2026-2027/hardleers-kim-schuddeboom",
+   "titel": "Hardleers",
+   "artiest": "Kim Schuddeboom",
+   "datum": "za 08 mei 2027 - 20:00",
+   "datum_iso": "8-5-2027 20:00:00",
+   "zaal": "Grote Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/hardleers-kim-schuddeboom"
+  },
+  "/agenda/seizoen-2026-2027/de-orde-van-de-dag-20-het-nut": {
+   "id": "/agenda/seizoen-2026-2027/de-orde-van-de-dag-20-het-nut",
+   "titel": "De Orde van de Dag #20",
+   "artiest": "Het NUT",
+   "datum": "ma 10 mei 2027 - 20:30",
+   "datum_iso": "10-5-2027 20:30:00",
+   "zaal": "Blauwe Zaal",
+   "tags": [
+    "Cabaret",
+    "Show",
+    "Verdieping",
+    "Toneel"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/de-orde-van-de-dag-20-het-nut"
+  },
+  "/agenda/seizoen-2026-2027/revue-revanche-valentina-toth": {
+   "id": "/agenda/seizoen-2026-2027/revue-revanche-valentina-toth",
+   "titel": "Revue Revanche",
+   "artiest": "Valentina Tóth",
+   "datum": "zo 23 mei 2027 - 20:00",
+   "datum_iso": "23-5-2027 20:00:00",
+   "zaal": "Grote Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/revue-revanche-valentina-toth"
+  },
+  "/agenda/seizoen-2026-2027/super-normaal-thomas-van-luyn": {
+   "id": "/agenda/seizoen-2026-2027/super-normaal-thomas-van-luyn",
+   "titel": "Super Normaal",
+   "artiest": "Thomas van Luyn",
+   "datum": "di 25 mei 2027 - 20:00",
+   "datum_iso": "25-5-2027 20:00:00",
+   "zaal": "Grote Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/super-normaal-thomas-van-luyn"
+  },
+  "/agenda/seizoen-2026-2027/finalistentour-2027-leids-cabaret-festival": {
+   "id": "/agenda/seizoen-2026-2027/finalistentour-2027-leids-cabaret-festival",
+   "titel": "Finalistentour 2027",
+   "artiest": "Leids Cabaret Festival",
+   "datum": "di 25 mei 2027 - 20:30",
+   "datum_iso": "25-5-2027 20:30:00",
+   "zaal": "Blauwe Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/finalistentour-2027-leids-cabaret-festival"
+  },
+  "/agenda/seizoen-2026-2027/vieren-grof-geschud": {
+   "id": "/agenda/seizoen-2026-2027/vieren-grof-geschud",
+   "titel": "Vieren",
+   "artiest": "Grof Geschud",
+   "datum": "do 27 mei 2027 - 20:30",
+   "datum_iso": "27-5-2027 20:30:00",
+   "zaal": "Blauwe Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/vieren-grof-geschud"
+  },
+  "/agenda/seizoen-2026-2027/winas-wereld-wina-ricardo": {
+   "id": "/agenda/seizoen-2026-2027/winas-wereld-wina-ricardo",
+   "titel": "Wina's Wereld",
+   "artiest": "Wina Ricardo",
+   "datum": "do 03 jun 2027 - 20:30",
+   "datum_iso": "3-6-2027 20:30:00",
+   "zaal": "Blauwe Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/winas-wereld-wina-ricardo"
+  },
+  "/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-8-flunknarf": {
+   "id": "/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-8-flunknarf",
+   "titel": "Niet zomaar een Pubquiz #8",
+   "artiest": "Flunknarf",
+   "datum": "zo 06 jun 2027 - 20:30",
+   "datum_iso": "6-6-2027 20:30:00",
+   "zaal": "Mevr. Dudok",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-8-flunknarf"
+  },
+  "/agenda/seizoen-2026-2027/wat-een-gezeik-lovella-telesford": {
+   "id": "/agenda/seizoen-2026-2027/wat-een-gezeik-lovella-telesford",
+   "titel": "Wat een gezeik!",
+   "artiest": "Lovella Telesford",
+   "datum": "vr 11 jun 2027 - 20:00",
+   "datum_iso": "11-6-2027 20:00:00",
+   "zaal": "Grote Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/wat-een-gezeik-lovella-telesford"
+  },
+  "/agenda/seizoen-2026-2027/lachen-met-volle-mond-6-berit-companjen-en-het-comedy-talent-van-het-momen": {
+   "id": "/agenda/seizoen-2026-2027/lachen-met-volle-mond-6-berit-companjen-en-het-comedy-talent-van-het-momen",
+   "titel": "Lachen met Volle Mond #6",
+   "artiest": "Berit Companjen en het Comedy Talent van het moment",
+   "datum": "za 12 jun 2027 - 19:00",
+   "datum_iso": "12-6-2027 19:00:00",
+   "zaal": "Zindering",
+   "tags": [
+    "Foodprogramma",
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/lachen-met-volle-mond-6-berit-companjen-en-het-comedy-talent-van-het-momen"
+  },
+  "/agenda/seizoen-2026-2027/lemming-merijn-scholten": {
+   "id": "/agenda/seizoen-2026-2027/lemming-merijn-scholten",
+   "titel": "LEMMING",
+   "artiest": "Merijn Scholten",
+   "datum": "ma 14 jun 2027 - 20:00",
+   "datum_iso": "14-6-2027 20:00:00",
+   "zaal": "Grote Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/lemming-merijn-scholten"
+  },
+  "/agenda/seizoen-2026-2027/de-orde-van-de-dag-21-het-nut": {
+   "id": "/agenda/seizoen-2026-2027/de-orde-van-de-dag-21-het-nut",
+   "titel": "De Orde van de Dag #21",
+   "artiest": "Het NUT",
+   "datum": "ma 21 jun 2027 - 20:30",
+   "datum_iso": "21-6-2027 20:30:00",
+   "zaal": "Grote Zaal",
+   "tags": [
+    "Cabaret",
+    "Show",
+    "Verdieping",
+    "Toneel"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/de-orde-van-de-dag-21-het-nut"
+  },
+  "/agenda/seizoen-2026-2027/wagyu-rundfunk": {
+   "id": "/agenda/seizoen-2026-2027/wagyu-rundfunk",
+   "titel": "Wagyu",
+   "artiest": "Rundfunk",
+   "datum": "di 22 jun 2027 - 20:00",
+   "datum_iso": "22-6-2027 20:00:00",
+   "zaal": "Grote Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/wagyu-rundfunk"
+  },
+  "/agenda/seizoen-2026-2027/in-perspectief-stefan-hendrikx": {
+   "id": "/agenda/seizoen-2026-2027/in-perspectief-stefan-hendrikx",
+   "titel": "In Perspectief",
+   "artiest": "Stefan Hendrikx",
+   "datum": "vr 25 jun 2027 - 20:30",
+   "datum_iso": "25-6-2027 20:30:00",
+   "zaal": "Blauwe Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [
+    "reprise",
+    "reprise"
+   ],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/in-perspectief-stefan-hendrikx"
+  },
+  "/agenda/seizoen-2026-2027/ravot-andries-tunru": {
+   "id": "/agenda/seizoen-2026-2027/ravot-andries-tunru",
+   "titel": "Ravot",
+   "artiest": "Andries Tunru",
+   "datum": "do 01 jul 2027 - 20:00",
+   "datum_iso": "1-7-2027 20:00:00",
+   "zaal": "Grote Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [
+    "reprise",
+    "reprise"
+   ],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/ravot-andries-tunru"
+  }
+ }
+}
