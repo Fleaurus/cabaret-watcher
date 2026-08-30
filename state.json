@@ -157,8 +157,9 @@
     "Cabaret",
     "Muziektheater"
    ],
-   "uitverkocht": false,
+   "uitverkocht": true,
    "labels": [
+    "uitverkocht",
     "reprise",
     "reprise"
    ],
@@ -668,9 +669,8 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": true,
+   "uitverkocht": false,
    "labels": [
-    "uitverkocht",
     "reprise",
     "reprise"
    ],
@@ -1394,8 +1394,10 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": false,
-   "labels": [],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/finalistentour-2027-leids-cabaret-festival"
   },
   "/agenda/seizoen-2026-2027/vieren-grof-geschud": {
