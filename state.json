@@ -29,10 +29,8 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": true,
-   "labels": [
-    "uitverkocht"
-   ],
+   "uitverkocht": false,
+   "labels": [],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-1-flunknarf"
   },
   "/agenda/seizoen-2026-2027/cringe-johan-goossens-eva-hoeke-marie-koet-ea": {
