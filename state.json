@@ -1,5 +1,5 @@
 {
- "laatst": "2026-09-02",
+ "laatst": "2026-09-03",
  "genre": "cabaret",
  "shows": {
   "/agenda/seizoen-2026-2027/de-interventie-emmy-krooshof-nick-van-keulen-en-erik-boddeus": {
@@ -453,6 +453,20 @@
    "uitverkocht": false,
    "labels": [],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/de-orde-van-de-dag-15-het-nut"
+  },
+  "/agenda/seizoen-2026-2027/de-hete-brij-live-alex-ploeg-pepijn-schoneveld-en-christine-de-boer": {
+   "id": "/agenda/seizoen-2026-2027/de-hete-brij-live-alex-ploeg-pepijn-schoneveld-en-christine-de-boer",
+   "titel": "De Hete Brij Live",
+   "artiest": "Alex Ploeg, Pepijn Schoneveld en Christine de Boer",
+   "datum": "di 15 dec 2026 - 20:00",
+   "datum_iso": "15-12-2026 20:00:00",
+   "zaal": "Grote Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/de-hete-brij-live-alex-ploeg-pepijn-schoneveld-en-christine-de-boer"
   },
   "/agenda/seizoen-2026-2027/rudsichtslos-ruud-smulders": {
    "id": "/agenda/seizoen-2026-2027/rudsichtslos-ruud-smulders",
