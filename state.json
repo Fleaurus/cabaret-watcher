@@ -342,8 +342,10 @@
     "Foodprogramma",
     "Cabaret"
    ],
-   "uitverkocht": false,
-   "labels": [],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/lachen-met-volle-mond-2-berit-companjen-en-het-comedy-talent-van-het-momen"
   },
   "/agenda/seizoen-2026-2027/aan-mij-zal-het-niet-liggen-marjolijn-van-kooten": {
