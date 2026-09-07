@@ -10,8 +10,7 @@
    "datum_iso": "10-9-2026 20:30:00",
    "zaal": "Blauwe Zaal",
    "tags": [
-    "Cabaret",
-    "Amateuruitvoering"
+    "Cabaret"
    ],
    "uitverkocht": true,
    "labels": [
@@ -63,8 +62,10 @@
     "Verdieping",
     "Toneel"
    ],
-   "uitverkocht": false,
-   "labels": [],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/de-orde-van-de-dag-12-het-nut"
   },
   "/agenda/seizoen-2026-2027/double-dutch-2-derek-mitchell": {
@@ -1586,6 +1587,20 @@
     "reprise"
    ],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/ravot-andries-tunru"
+  },
+  "/agenda/seizoen-2026-2027/de-interventie-de-grote-zomerfin-emmy-krooshof-nick-van-keulen-en-erik-boddeus": {
+   "id": "/agenda/seizoen-2026-2027/de-interventie-de-grote-zomerfin-emmy-krooshof-nick-van-keulen-en-erik-boddeus",
+   "titel": "De Interventie - De Grote Zomerfinale",
+   "artiest": "Emmy Krooshof, Nick van Keulen en Erik Boddeüs",
+   "datum": "vr 09 jul 2027 - 20:30",
+   "datum_iso": "9-7-2027 20:30:00",
+   "zaal": "Blauwe Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/de-interventie-de-grote-zomerfin-emmy-krooshof-nick-van-keulen-en-erik-boddeus"
   }
  }
 }
