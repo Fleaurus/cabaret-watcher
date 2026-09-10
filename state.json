@@ -2,20 +2,6 @@
  "laatst": "2026-09-10",
  "genre": "cabaret",
  "shows": {
-  "/agenda/seizoen-2026-2027/de-interventie-emmy-krooshof-nick-van-keulen-en-erik-boddeus": {
-   "id": "/agenda/seizoen-2026-2027/de-interventie-emmy-krooshof-nick-van-keulen-en-erik-boddeus",
-   "titel": "De Interventie",
-   "artiest": "Emmy Krooshof, Nick van Keulen en Erik Boddeüs",
-   "datum": "do 10 sep 2026 - 20:30",
-   "datum_iso": "10-9-2026 20:30:00",
-   "zaal": "Blauwe Zaal",
-   "tags": [
-    "Cabaret"
-   ],
-   "uitverkocht": false,
-   "labels": [],
-   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/de-interventie-emmy-krooshof-nick-van-keulen-en-erik-boddeus"
-  },
   "/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-1-flunknarf": {
    "id": "/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-1-flunknarf",
    "titel": "Niet zomaar een Pubquiz #1",
@@ -697,9 +683,8 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": true,
+   "uitverkocht": false,
    "labels": [
-    "uitverkocht",
     "reprise",
     "reprise"
    ],
