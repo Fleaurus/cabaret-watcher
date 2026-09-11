@@ -172,9 +172,8 @@
     "Cabaret",
     "Muziektheater"
    ],
-   "uitverkocht": true,
+   "uitverkocht": false,
    "labels": [
-    "uitverkocht",
     "reprise",
     "reprise"
    ],
