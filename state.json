@@ -2,20 +2,6 @@
  "laatst": "2026-09-13",
  "genre": "cabaret",
  "shows": {
-  "/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-1-flunknarf": {
-   "id": "/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-1-flunknarf",
-   "titel": "Niet zomaar een Pubquiz #1",
-   "artiest": "Flunknarf",
-   "datum": "zo 13 sep 2026 - 20:30",
-   "datum_iso": "13-9-2026 20:30:00",
-   "zaal": "Mevr. Dudok",
-   "tags": [
-    "Cabaret"
-   ],
-   "uitverkocht": false,
-   "labels": [],
-   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-1-flunknarf"
-  },
   "/agenda/seizoen-2026-2027/cringe-johan-goossens-eva-hoeke-marie-koet-ea": {
    "id": "/agenda/seizoen-2026-2027/cringe-johan-goossens-eva-hoeke-marie-koet-ea",
    "titel": "Cringe",
@@ -58,8 +44,10 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": false,
-   "labels": [],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/double-dutch-2-derek-mitchell"
   },
   "/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-2-flunknarf": {
