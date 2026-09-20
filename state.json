@@ -2,21 +2,6 @@
  "laatst": "2026-09-20",
  "genre": "cabaret",
  "shows": {
-  "/agenda/seizoen-2026-2027/cringe-johan-goossens-eva-hoeke-marie-koet-ea": {
-   "id": "/agenda/seizoen-2026-2027/cringe-johan-goossens-eva-hoeke-marie-koet-ea",
-   "titel": "Cringe",
-   "artiest": "Johan Goossens, Eva Hoeke, Marie Koet e.a.",
-   "datum": "zo 20 sep 2026 - 20:00",
-   "datum_iso": "20-9-2026 20:00:00",
-   "zaal": "Grote Zaal",
-   "tags": [
-    "geannuleerd",
-    "Cabaret"
-   ],
-   "uitverkocht": false,
-   "labels": [],
-   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/cringe-johan-goossens-eva-hoeke-marie-koet-ea"
-  },
   "/agenda/seizoen-2026-2027/de-orde-van-de-dag-12-het-nut": {
    "id": "/agenda/seizoen-2026-2027/de-orde-van-de-dag-12-het-nut",
    "titel": "De Orde van de Dag #12",
@@ -593,8 +578,9 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": false,
+   "uitverkocht": true,
    "labels": [
+    "uitverkocht",
     "reprise",
     "reprise"
    ],
