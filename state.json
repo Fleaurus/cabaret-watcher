@@ -2,23 +2,6 @@
  "laatst": "2026-09-21",
  "genre": "cabaret",
  "shows": {
-  "/agenda/seizoen-2026-2027/de-orde-van-de-dag-12-het-nut": {
-   "id": "/agenda/seizoen-2026-2027/de-orde-van-de-dag-12-het-nut",
-   "titel": "De Orde van de Dag #12",
-   "artiest": "Het NUT",
-   "datum": "ma 21 sep 2026 - 20:30",
-   "datum_iso": "21-9-2026 20:30:00",
-   "zaal": "Blauwe Zaal",
-   "tags": [
-    "Cabaret",
-    "Show",
-    "Verdieping",
-    "Toneel"
-   ],
-   "uitverkocht": false,
-   "labels": [],
-   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/de-orde-van-de-dag-12-het-nut"
-  },
   "/agenda/seizoen-2026-2027/double-dutch-2-derek-mitchell": {
    "id": "/agenda/seizoen-2026-2027/double-dutch-2-derek-mitchell",
    "titel": "Double Dutch 2",
