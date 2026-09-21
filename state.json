@@ -15,10 +15,8 @@
     "Verdieping",
     "Toneel"
    ],
-   "uitverkocht": true,
-   "labels": [
-    "uitverkocht"
-   ],
+   "uitverkocht": false,
+   "labels": [],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/de-orde-van-de-dag-12-het-nut"
   },
   "/agenda/seizoen-2026-2027/double-dutch-2-derek-mitchell": {
@@ -31,10 +29,8 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": true,
-   "labels": [
-    "uitverkocht"
-   ],
+   "uitverkocht": false,
+   "labels": [],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/double-dutch-2-derek-mitchell"
   },
   "/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-2-flunknarf": {
@@ -578,8 +574,9 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": false,
+   "uitverkocht": true,
    "labels": [
+    "uitverkocht",
     "reprise",
     "reprise"
    ],
