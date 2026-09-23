@@ -12,8 +12,10 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": false,
-   "labels": [],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/double-dutch-2-derek-mitchell"
   },
   "/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-2-flunknarf": {
