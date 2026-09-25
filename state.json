@@ -12,10 +12,8 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": true,
-   "labels": [
-    "uitverkocht"
-   ],
+   "uitverkocht": false,
+   "labels": [],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/double-dutch-2-derek-mitchell"
   },
   "/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-2-flunknarf": {
@@ -1000,8 +998,10 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": false,
-   "labels": [],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/we-zien-het-wel-even-hokjesdenker"
   },
   "/agenda/seizoen-2026-2027/baby-reindeer-kobra-theaterproducties-thijs-van-de-meeberg": {
