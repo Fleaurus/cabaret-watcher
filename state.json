@@ -32,10 +32,10 @@
    "labels": [],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-2-flunknarf"
   },
-  "/agenda/seizoen-2026-2027/lachen-met-volle-mond-1-berit-companjen-en-het-comedy-talent-van-het-momen": {
-   "id": "/agenda/seizoen-2026-2027/lachen-met-volle-mond-1-berit-companjen-en-het-comedy-talent-van-het-momen",
+  "/agenda/seizoen-2026-2027/lachen-met-volle-mond-1-berit-companjen-luuk-weggemans-tijmen-van-barnev": {
+   "id": "/agenda/seizoen-2026-2027/lachen-met-volle-mond-1-berit-companjen-luuk-weggemans-tijmen-van-barnev",
    "titel": "Lachen met Volle Mond #1",
-   "artiest": "Berit Companjen en het Comedy Talent van het moment",
+   "artiest": "Berit Companjen, Luuk Weggemans, Tijmen van Barneveld e.a.",
    "datum": "ma 19 okt 2026 - 19:00",
    "datum_iso": "19-10-2026 19:00:00",
    "zaal": "Zindering",
@@ -47,7 +47,7 @@
    "labels": [
     "uitverkocht"
    ],
-   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/lachen-met-volle-mond-1-berit-companjen-en-het-comedy-talent-van-het-momen"
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/lachen-met-volle-mond-1-berit-companjen-luuk-weggemans-tijmen-van-barnev"
   },
   "/agenda/seizoen-2026-2027/de-orde-van-de-dag-13-het-nut": {
    "id": "/agenda/seizoen-2026-2027/de-orde-van-de-dag-13-het-nut",
@@ -76,8 +76,9 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": false,
+   "uitverkocht": true,
    "labels": [
+    "uitverkocht",
     "reprise",
     "reprise"
    ],
