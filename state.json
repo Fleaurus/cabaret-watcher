@@ -62,8 +62,10 @@
     "Verdieping",
     "Toneel"
    ],
-   "uitverkocht": false,
-   "labels": [],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/de-orde-van-de-dag-13-het-nut"
   },
   "/agenda/seizoen-2026-2027/keanu-henry-van-loon": {
@@ -246,8 +248,10 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": false,
-   "labels": [],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/en-verbied-vogels-om-te-fluiten-ayoub"
   },
   "/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-3-flunknarf": {
