@@ -109,7 +109,7 @@
    "artiest": "Aren Scholte, Lex van Wieren e.a",
    "datum": "za 31 okt 2026 - 19:30",
    "datum_iso": "31-10-2026 19:30:00",
-   "zaal": "Hekman Zaal",
+   "zaal": "Zindering",
    "tags": [
     "Cabaret"
    ],
@@ -246,10 +246,8 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": true,
-   "labels": [
-    "uitverkocht"
-   ],
+   "uitverkocht": false,
+   "labels": [],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/en-verbied-vogels-om-te-fluiten-ayoub"
   },
   "/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-3-flunknarf": {
