@@ -116,9 +116,8 @@
     "Cabaret",
     "Muziektheater"
    ],
-   "uitverkocht": true,
+   "uitverkocht": false,
    "labels": [
-    "uitverkocht",
     "reprise",
     "reprise"
    ],
@@ -483,8 +482,10 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": false,
-   "labels": [],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/finalistentournee-2026-cameretten"
   },
   "/agenda/seizoen-2026-2027/welkom-ongemak-wim-helsen": {
