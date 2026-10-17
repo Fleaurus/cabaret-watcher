@@ -185,9 +185,8 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": true,
+   "uitverkocht": false,
    "labels": [
-    "uitverkocht",
     "reprise",
     "reprise"
    ],
@@ -301,8 +300,10 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": false,
-   "labels": [],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/aan-mij-zal-het-niet-liggen-marjolijn-van-kooten"
   },
   "/agenda/seizoen-2026-2027/op-scherp-jasper-van-der-veen": {
