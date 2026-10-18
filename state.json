@@ -2,22 +2,6 @@
  "laatst": "2026-10-18",
  "genre": "cabaret",
  "shows": {
-  "/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-2-flunknarf": {
-   "id": "/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-2-flunknarf",
-   "titel": "Niet zomaar een Pubquiz #2",
-   "artiest": "Flunknarf",
-   "datum": "zo 18 okt 2026 - 20:30",
-   "datum_iso": "18-10-2026 20:30:00",
-   "zaal": "Mevr. Dudok",
-   "tags": [
-    "Cabaret"
-   ],
-   "uitverkocht": true,
-   "labels": [
-    "uitverkocht"
-   ],
-   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-2-flunknarf"
-  },
   "/agenda/seizoen-2026-2027/lachen-met-volle-mond-1-berit-companjen-luuk-weggemans-tijmen-van-barnev": {
    "id": "/agenda/seizoen-2026-2027/lachen-met-volle-mond-1-berit-companjen-luuk-weggemans-tijmen-van-barnev",
    "titel": "Lachen met Volle Mond #1",
@@ -64,8 +48,9 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": false,
+   "uitverkocht": true,
    "labels": [
+    "uitverkocht",
     "reprise",
     "reprise"
    ],
