@@ -32,10 +32,8 @@
     "Verdieping",
     "Toneel"
    ],
-   "uitverkocht": true,
-   "labels": [
-    "uitverkocht"
-   ],
+   "uitverkocht": false,
+   "labels": [],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/de-orde-van-de-dag-13-het-nut"
   },
   "/agenda/seizoen-2026-2027/keanu-henry-van-loon": {
@@ -100,9 +98,8 @@
     "Cabaret",
     "Muziektheater"
    ],
-   "uitverkocht": true,
+   "uitverkocht": false,
    "labels": [
-    "uitverkocht",
     "reprise",
     "reprise"
    ],
@@ -137,10 +134,8 @@
     "Verdieping",
     "Toneel"
    ],
-   "uitverkocht": true,
-   "labels": [
-    "uitverkocht"
-   ],
+   "uitverkocht": false,
+   "labels": [],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/de-orde-van-de-dag-14-het-nut"
   },
   "/agenda/seizoen-2026-2027/bedankt-om-te-komen-jade-mintjens": {
