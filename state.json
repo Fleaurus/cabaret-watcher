@@ -117,8 +117,10 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": false,
-   "labels": [],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/bedankt-om-te-komen-jade-mintjens"
   },
   "/agenda/seizoen-2026-2027/prikkelarme-kermis-sara-kroos": {
@@ -131,8 +133,9 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": false,
+   "uitverkocht": true,
    "labels": [
+    "uitverkocht",
     "reprise",
     "reprise"
    ],
