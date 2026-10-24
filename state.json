@@ -131,9 +131,8 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": true,
+   "uitverkocht": false,
    "labels": [
-    "uitverkocht",
     "reprise",
     "reprise"
    ],
