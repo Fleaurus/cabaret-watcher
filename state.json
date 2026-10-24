@@ -816,8 +816,10 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": false,
-   "labels": [],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-5-flunknarf"
   },
   "/agenda/seizoen-2026-2027/gelukkig-heb-je-mij-nog-richard-groenendijk": {
@@ -1012,8 +1014,10 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": false,
-   "labels": [],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-6-flunknarf"
   },
   "/agenda/seizoen-2026-2027/lachen-met-volle-mond-4-berit-companjen-en-het-comedy-talent-van-het-momen": {
@@ -1145,8 +1149,10 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": false,
-   "labels": [],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-7-flunknarf"
   },
   "/agenda/seizoen-2026-2027/zwaargewicht-fimme-bakker": {
