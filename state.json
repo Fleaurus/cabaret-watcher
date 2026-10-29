@@ -385,10 +385,8 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": true,
-   "labels": [
-    "uitverkocht"
-   ],
+   "uitverkocht": false,
+   "labels": [],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/zeg-maar-u-de-broers-van-arkel"
   },
   "/agenda/seizoen-2026-2027/de-nogal-hyperbijzondere-oudejaa-andries-tunru-stefan-hendrikx": {
@@ -1442,10 +1440,8 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": true,
-   "labels": [
-    "uitverkocht"
-   ],
+   "uitverkocht": false,
+   "labels": [],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/wagyu-rundfunk"
   },
   "/agenda/seizoen-2026-2027/in-perspectief-stefan-hendrikx": {
