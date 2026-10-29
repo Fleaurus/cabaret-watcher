@@ -6,8 +6,8 @@
    "id": "/agenda/seizoen-2026-2027/keanu-henry-van-loon",
    "titel": "Keanu",
    "artiest": "Henry van Loon",
-   "datum": "do 29 okt 2026 - 20:00",
-   "datum_iso": "29-10-2026 20:00:00",
+   "datum": "vr 30 okt 2026 - 20:00",
+   "datum_iso": "30-10-2026 20:00:00",
    "zaal": "Grote Zaal",
    "tags": [
     "Cabaret"
@@ -82,10 +82,8 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": true,
-   "labels": [
-    "uitverkocht"
-   ],
+   "uitverkocht": false,
+   "labels": [],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/king-me-250-years-of-donald-trum-greg-shapiro"
   },
   "/agenda/seizoen-2026-2027/de-orde-van-de-dag-14-het-nut": {
@@ -825,8 +823,10 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": false,
-   "labels": [],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/gelukkig-heb-je-mij-nog-richard-groenendijk"
   },
   "/agenda/seizoen-2026-2027/freedom-is-no-joke-2027-utrechts-international-comedy-festival": {
@@ -1440,8 +1440,10 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": false,
-   "labels": [],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/wagyu-rundfunk"
   },
   "/agenda/seizoen-2026-2027/in-perspectief-stefan-hendrikx": {
