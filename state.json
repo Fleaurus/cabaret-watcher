@@ -12,9 +12,8 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": true,
+   "uitverkocht": false,
    "labels": [
-    "uitverkocht",
     "reprise",
     "reprise"
    ],
@@ -82,8 +81,10 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": false,
-   "labels": [],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/king-me-250-years-of-donald-trum-greg-shapiro"
   },
   "/agenda/seizoen-2026-2027/de-orde-van-de-dag-14-het-nut": {
@@ -99,8 +100,10 @@
     "Verdieping",
     "Toneel"
    ],
-   "uitverkocht": false,
-   "labels": [],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/de-orde-van-de-dag-14-het-nut"
   },
   "/agenda/seizoen-2026-2027/bedankt-om-te-komen-jade-mintjens": {
@@ -217,10 +220,10 @@
    ],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-3-flunknarf"
   },
-  "/agenda/seizoen-2026-2027/lachen-met-volle-mond-2-berit-companjen-en-het-comedy-talent-van-het-momen": {
-   "id": "/agenda/seizoen-2026-2027/lachen-met-volle-mond-2-berit-companjen-en-het-comedy-talent-van-het-momen",
+  "/agenda/seizoen-2026-2027/lachen-met-volle-mond-2-berit-companjen-teun-van-den-elzen-en-het-comedy": {
+   "id": "/agenda/seizoen-2026-2027/lachen-met-volle-mond-2-berit-companjen-teun-van-den-elzen-en-het-comedy",
    "titel": "Lachen met Volle Mond #2",
-   "artiest": "Berit Companjen en het Comedy Talent van het moment",
+   "artiest": "Berit Companjen, Teun van den Elzen en het Comedy Talent van het moment",
    "datum": "ma 23 nov 2026 - 19:00",
    "datum_iso": "23-11-2026 19:00:00",
    "zaal": "Zindering",
@@ -232,7 +235,7 @@
    "labels": [
     "uitverkocht"
    ],
-   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/lachen-met-volle-mond-2-berit-companjen-en-het-comedy-talent-van-het-momen"
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/lachen-met-volle-mond-2-berit-companjen-teun-van-den-elzen-en-het-comedy"
   },
   "/agenda/seizoen-2026-2027/aan-mij-zal-het-niet-liggen-marjolijn-van-kooten": {
    "id": "/agenda/seizoen-2026-2027/aan-mij-zal-het-niet-liggen-marjolijn-van-kooten",
@@ -596,10 +599,10 @@
    ],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/micha-wertheim-voor-iedereen-micha-wertheim"
   },
-  "/agenda/seizoen-2026-2027/lachen-met-volle-mond-3-berit-companjen-en-het-comedy-talent-van-het-momen": {
-   "id": "/agenda/seizoen-2026-2027/lachen-met-volle-mond-3-berit-companjen-en-het-comedy-talent-van-het-momen",
+  "/agenda/seizoen-2026-2027/lachen-met-volle-mond-3-berit-companjen-fimme-bakker-bob-koomen-ea": {
+   "id": "/agenda/seizoen-2026-2027/lachen-met-volle-mond-3-berit-companjen-fimme-bakker-bob-koomen-ea",
    "titel": "Lachen met Volle Mond #3",
-   "artiest": "Berit Companjen en het Comedy Talent van het moment",
+   "artiest": "Berit Companjen, Fimme Bakker, Bob Koomen e.a.",
    "datum": "ma 25 jan 2027 - 19:00",
    "datum_iso": "25-1-2027 19:00:00",
    "zaal": "Zindering",
@@ -609,7 +612,7 @@
    ],
    "uitverkocht": false,
    "labels": [],
-   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/lachen-met-volle-mond-3-berit-companjen-en-het-comedy-talent-van-het-momen"
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/lachen-met-volle-mond-3-berit-companjen-fimme-bakker-bob-koomen-ea"
   },
   "/agenda/seizoen-2026-2027/tis-hier-geen-hotel-3-hanneke-drenth-dianne-liesker": {
    "id": "/agenda/seizoen-2026-2027/tis-hier-geen-hotel-3-hanneke-drenth-dianne-liesker",
