@@ -2,42 +2,6 @@
  "laatst": "2026-10-30",
  "genre": "cabaret",
  "shows": {
-  "/agenda/seizoen-2026-2027/keanu-henry-van-loon": {
-   "id": "/agenda/seizoen-2026-2027/keanu-henry-van-loon",
-   "titel": "Keanu",
-   "artiest": "Henry van Loon",
-   "datum": "vr 30 okt 2026 - 20:00",
-   "datum_iso": "30-10-2026 20:00:00",
-   "zaal": "Grote Zaal",
-   "tags": [
-    "Cabaret"
-   ],
-   "uitverkocht": false,
-   "labels": [
-    "reprise",
-    "reprise"
-   ],
-   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/keanu-henry-van-loon"
-  },
-  "/agenda/seizoen-2026-2027/ik-beloof-je-eeuwige-twijfel-juliet": {
-   "id": "/agenda/seizoen-2026-2027/ik-beloof-je-eeuwige-twijfel-juliet",
-   "titel": "Ik beloof je eeuwige twijfel",
-   "artiest": "Juliet",
-   "datum": "vr 30 okt 2026 - 20:30",
-   "datum_iso": "30-10-2026 20:30:00",
-   "zaal": "Blauwe Zaal",
-   "tags": [
-    "Cabaret",
-    "Muziektheater"
-   ],
-   "uitverkocht": true,
-   "labels": [
-    "uitverkocht",
-    "reprise",
-    "reprise"
-   ],
-   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/ik-beloof-je-eeuwige-twijfel-juliet"
-  },
   "/agenda/seizoen-2026-2027/valt-er-nog-wat-te-lachen-aren-scholte-lex-van-wieren-ea": {
    "id": "/agenda/seizoen-2026-2027/valt-er-nog-wat-te-lachen-aren-scholte-lex-van-wieren-ea",
    "titel": "Valt er nog wat te lachen?",
