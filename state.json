@@ -1,5 +1,5 @@
 {
- "laatst": "2026-11-02",
+ "laatst": "2026-11-03",
  "genre": "cabaret",
  "shows": {
   "/agenda/seizoen-2026-2027/rekhalzen-yentl-en-de-boer": {
@@ -82,9 +82,8 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": true,
+   "uitverkocht": false,
    "labels": [
-    "uitverkocht",
     "reprise",
     "reprise"
    ],
