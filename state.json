@@ -50,10 +50,8 @@
     "Verdieping",
     "Toneel"
    ],
-   "uitverkocht": true,
-   "labels": [
-    "uitverkocht"
-   ],
+   "uitverkocht": false,
+   "labels": [],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/de-orde-van-de-dag-14-het-nut"
   },
   "/agenda/seizoen-2026-2027/bedankt-om-te-komen-jade-mintjens": {
@@ -211,8 +209,9 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": false,
+   "uitverkocht": true,
    "labels": [
+    "uitverkocht",
     "reprise",
     "reprise"
    ],
