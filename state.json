@@ -2,25 +2,6 @@
  "laatst": "2026-11-05",
  "genre": "cabaret",
  "shows": {
-  "/agenda/seizoen-2026-2027/rekhalzen-yentl-en-de-boer": {
-   "id": "/agenda/seizoen-2026-2027/rekhalzen-yentl-en-de-boer",
-   "titel": "Rekhalzen",
-   "artiest": "Yentl en de Boer",
-   "datum": "do 05 nov 2026 - 20:00",
-   "datum_iso": "5-11-2026 20:00:00",
-   "zaal": "Grote Zaal",
-   "tags": [
-    "Cabaret",
-    "Muziektheater"
-   ],
-   "uitverkocht": true,
-   "labels": [
-    "uitverkocht",
-    "reprise",
-    "reprise"
-   ],
-   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/rekhalzen-yentl-en-de-boer"
-  },
   "/agenda/seizoen-2026-2027/king-me-250-years-of-donald-trum-greg-shapiro": {
    "id": "/agenda/seizoen-2026-2027/king-me-250-years-of-donald-trum-greg-shapiro",
    "titel": "KING ME - 250 Years of Donald Trump",
@@ -99,8 +80,10 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": false,
-   "labels": [],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/het-goede-voorbeeld-vlamousse"
   },
   "/agenda/seizoen-2026-2027/finale-2026-nederlands-studentenkampioenschap-improvisatie-com": {
@@ -195,10 +178,8 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": true,
-   "labels": [
-    "uitverkocht"
-   ],
+   "uitverkocht": false,
+   "labels": [],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/aan-mij-zal-het-niet-liggen-marjolijn-van-kooten"
   },
   "/agenda/seizoen-2026-2027/op-scherp-jasper-van-der-veen": {
