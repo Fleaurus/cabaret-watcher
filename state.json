@@ -117,10 +117,10 @@
    ],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-3-flunknarf"
   },
-  "/agenda/seizoen-2026-2027/lachen-met-volle-mond-2-berit-companjen-teun-van-den-elzen-en-het-comedy": {
-   "id": "/agenda/seizoen-2026-2027/lachen-met-volle-mond-2-berit-companjen-teun-van-den-elzen-en-het-comedy",
+  "/agenda/seizoen-2026-2027/lachen-met-volle-mond-2-berit-companjen-teun-van-den-elzen-djoni-de-vos": {
+   "id": "/agenda/seizoen-2026-2027/lachen-met-volle-mond-2-berit-companjen-teun-van-den-elzen-djoni-de-vos",
    "titel": "Lachen met Volle Mond #2",
-   "artiest": "Berit Companjen, Teun van den Elzen en het Comedy Talent van het moment",
+   "artiest": "Berit Companjen, Teun van den Elzen, Djoni de Vos en het Comedy Talent van het moment",
    "datum": "ma 23 nov 2026 - 19:00",
    "datum_iso": "23-11-2026 19:00:00",
    "zaal": "Zindering",
@@ -132,7 +132,7 @@
    "labels": [
     "uitverkocht"
    ],
-   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/lachen-met-volle-mond-2-berit-companjen-teun-van-den-elzen-en-het-comedy"
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/lachen-met-volle-mond-2-berit-companjen-teun-van-den-elzen-djoni-de-vos"
   },
   "/agenda/seizoen-2026-2027/aan-mij-zal-het-niet-liggen-marjolijn-van-kooten": {
    "id": "/agenda/seizoen-2026-2027/aan-mij-zal-het-niet-liggen-marjolijn-van-kooten",
@@ -144,8 +144,10 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": false,
-   "labels": [],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/aan-mij-zal-het-niet-liggen-marjolijn-van-kooten"
   },
   "/agenda/seizoen-2026-2027/op-scherp-jasper-van-der-veen": {
