@@ -29,8 +29,10 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": false,
-   "labels": [],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/het-goede-voorbeeld-vlamousse"
   },
   "/agenda/seizoen-2026-2027/finale-2026-nederlands-studentenkampioenschap-improvisatie-com": {
@@ -1017,6 +1019,20 @@
    "uitverkocht": false,
    "labels": [],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/zoveel-meer-beth-flo"
+  },
+  "/agenda/seizoen-2026-2027/mze3ze3-borrelnootjez": {
+   "id": "/agenda/seizoen-2026-2027/mze3ze3-borrelnootjez",
+   "titel": "MZE3ZE3",
+   "artiest": "Borrelnootjez",
+   "datum": "zo 11 apr 2027 - 20:00",
+   "datum_iso": "11-4-2027 20:00:00",
+   "zaal": "Grote Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/mze3ze3-borrelnootjez"
   },
   "/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-7-flunknarf": {
    "id": "/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-7-flunknarf",
