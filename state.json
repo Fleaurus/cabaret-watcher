@@ -1,24 +1,7 @@
 {
- "laatst": "2026-11-12",
+ "laatst": "2026-11-13",
  "genre": "cabaret",
  "shows": {
-  "/agenda/seizoen-2026-2027/prikkelarme-kermis-sara-kroos": {
-   "id": "/agenda/seizoen-2026-2027/prikkelarme-kermis-sara-kroos",
-   "titel": "Prikkelarme kermis",
-   "artiest": "Sara Kroos",
-   "datum": "do 12 nov 2026 - 20:00",
-   "datum_iso": "12-11-2026 20:00:00",
-   "zaal": "Grote Zaal",
-   "tags": [
-    "Cabaret"
-   ],
-   "uitverkocht": false,
-   "labels": [
-    "reprise",
-    "reprise"
-   ],
-   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/prikkelarme-kermis-sara-kroos"
-  },
   "/agenda/seizoen-2026-2027/het-goede-voorbeeld-vlamousse": {
    "id": "/agenda/seizoen-2026-2027/het-goede-voorbeeld-vlamousse",
    "titel": "Het goede voorbeeld",
