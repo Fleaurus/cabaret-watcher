@@ -92,10 +92,8 @@
     "Foodprogramma",
     "Cabaret"
    ],
-   "uitverkocht": true,
-   "labels": [
-    "uitverkocht"
-   ],
+   "uitverkocht": false,
+   "labels": [],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/lachen-met-volle-mond-2-berit-companjen-teun-van-den-elzen-djoni-de-vos"
   },
   "/agenda/seizoen-2026-2027/aan-mij-zal-het-niet-liggen-marjolijn-van-kooten": {
