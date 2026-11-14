@@ -2,20 +2,6 @@
  "laatst": "2026-11-14",
  "genre": "cabaret",
  "shows": {
-  "/agenda/seizoen-2026-2027/het-goede-voorbeeld-vlamousse": {
-   "id": "/agenda/seizoen-2026-2027/het-goede-voorbeeld-vlamousse",
-   "titel": "Het goede voorbeeld",
-   "artiest": "Vlamousse",
-   "datum": "za 14 nov 2026 - 20:30",
-   "datum_iso": "14-11-2026 20:30:00",
-   "zaal": "Blauwe Zaal",
-   "tags": [
-    "Cabaret"
-   ],
-   "uitverkocht": false,
-   "labels": [],
-   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/het-goede-voorbeeld-vlamousse"
-  },
   "/agenda/seizoen-2026-2027/finale-2026-nederlands-studentenkampioenschap-improvisatie-com": {
    "id": "/agenda/seizoen-2026-2027/finale-2026-nederlands-studentenkampioenschap-improvisatie-com",
    "titel": "Finale 2026",
