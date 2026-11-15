@@ -187,10 +187,8 @@
     "Verdieping",
     "Toneel"
    ],
-   "uitverkocht": true,
-   "labels": [
-    "uitverkocht"
-   ],
+   "uitverkocht": false,
+   "labels": [],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/de-orde-van-de-dag-15-het-nut"
   },
   "/agenda/seizoen-2026-2027/de-hete-brij-live-alex-ploeg-pepijn-schoneveld-en-christine-de-boer": {
@@ -203,8 +201,10 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": false,
-   "labels": [],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/de-hete-brij-live-alex-ploeg-pepijn-schoneveld-en-christine-de-boer"
   },
   "/agenda/seizoen-2026-2027/rudsichtslos-ruud-smulders": {
@@ -582,8 +582,9 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": false,
+   "uitverkocht": true,
    "labels": [
+    "uitverkocht",
     "reprise",
     "reprise"
    ],
@@ -785,10 +786,8 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": true,
-   "labels": [
-    "uitverkocht"
-   ],
+   "uitverkocht": false,
+   "labels": [],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/niks-aan-het-handje-joosen-en-de-jager"
   },
   "/agenda/seizoen-2026-2027/we-zien-het-wel-even-hokjesdenker": {
