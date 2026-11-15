@@ -2,21 +2,6 @@
  "laatst": "2026-11-15",
  "genre": "cabaret",
  "shows": {
-  "/agenda/seizoen-2026-2027/finale-2026-nederlands-studentenkampioenschap-improvisatie-com": {
-   "id": "/agenda/seizoen-2026-2027/finale-2026-nederlands-studentenkampioenschap-improvisatie-com",
-   "titel": "Finale 2026",
-   "artiest": "Nederlands Studentenkampioenschap Improvisatie-comedy",
-   "datum": "zo 15 nov 2026 - 20:30",
-   "datum_iso": "15-11-2026 20:30:00",
-   "zaal": "Blauwe Zaal",
-   "tags": [
-    "Amateuruitvoering",
-    "Cabaret"
-   ],
-   "uitverkocht": false,
-   "labels": [],
-   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/finale-2026-nederlands-studentenkampioenschap-improvisatie-com"
-  },
   "/agenda/seizoen-2026-2027/striptease-van-de-dood-david-linszen": {
    "id": "/agenda/seizoen-2026-2027/striptease-van-de-dood-david-linszen",
    "titel": "Striptease Van De Dood",
@@ -201,10 +186,8 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": true,
-   "labels": [
-    "uitverkocht"
-   ],
+   "uitverkocht": false,
+   "labels": [],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/de-hete-brij-live-alex-ploeg-pepijn-schoneveld-en-christine-de-boer"
   },
   "/agenda/seizoen-2026-2027/rudsichtslos-ruud-smulders": {
