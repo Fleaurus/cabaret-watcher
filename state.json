@@ -75,10 +75,8 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": true,
-   "labels": [
-    "uitverkocht"
-   ],
+   "uitverkocht": false,
+   "labels": [],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/aan-mij-zal-het-niet-liggen-marjolijn-van-kooten"
   },
   "/agenda/seizoen-2026-2027/op-scherp-jasper-van-der-veen": {
@@ -172,8 +170,10 @@
     "Verdieping",
     "Toneel"
    ],
-   "uitverkocht": false,
-   "labels": [],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/de-orde-van-de-dag-15-het-nut"
   },
   "/agenda/seizoen-2026-2027/de-hete-brij-live-alex-ploeg-pepijn-schoneveld-en-christine-de-boer": {
@@ -186,8 +186,10 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": false,
-   "labels": [],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/de-hete-brij-live-alex-ploeg-pepijn-schoneveld-en-christine-de-boer"
   },
   "/agenda/seizoen-2026-2027/rudsichtslos-ruud-smulders": {
