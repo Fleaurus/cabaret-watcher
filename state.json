@@ -46,10 +46,8 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": true,
-   "labels": [
-    "uitverkocht"
-   ],
+   "uitverkocht": false,
+   "labels": [],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-3-flunknarf"
   },
   "/agenda/seizoen-2026-2027/lachen-met-volle-mond-2-berit-companjen-teun-van-den-elzen-djoni-de-vos": {
@@ -77,8 +75,10 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": false,
-   "labels": [],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/aan-mij-zal-het-niet-liggen-marjolijn-van-kooten"
   },
   "/agenda/seizoen-2026-2027/op-scherp-jasper-van-der-veen": {
@@ -129,10 +129,10 @@
    "labels": [],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/rare-leeftijd-ricky-koole"
   },
-  "/agenda/seizoen-2026-2027/vrouwejaars-2026-yora-rienstra-vera-marijt-ea": {
-   "id": "/agenda/seizoen-2026-2027/vrouwejaars-2026-yora-rienstra-vera-marijt-ea",
+  "/agenda/seizoen-2026-2027/vrouwejaars-2026-yora-rienstra-ea": {
+   "id": "/agenda/seizoen-2026-2027/vrouwejaars-2026-yora-rienstra-ea",
    "titel": "Vrouwejaars 2026",
-   "artiest": "Yora Rienstra, Vera Marijt e.a.",
+   "artiest": "Yora Rienstra e.a.",
    "datum": "ma 07 dec 2026 - 20:00",
    "datum_iso": "7-12-2026 20:00:00",
    "zaal": "Grote Zaal",
@@ -141,7 +141,7 @@
    ],
    "uitverkocht": false,
    "labels": [],
-   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/vrouwejaars-2026-yora-rienstra-vera-marijt-ea"
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/vrouwejaars-2026-yora-rienstra-ea"
   },
   "/agenda/seizoen-2026-2027/finalistentournee-2026-amsterdams-kleinkunst-festival": {
    "id": "/agenda/seizoen-2026-2027/finalistentournee-2026-amsterdams-kleinkunst-festival",
@@ -470,10 +470,8 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": true,
-   "labels": [
-    "uitverkocht"
-   ],
+   "uitverkocht": false,
+   "labels": [],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/altijd-aan-pieter-verelst"
   },
   "/agenda/seizoen-2026-2027/ziel-zalig-joost-spijkers": {
