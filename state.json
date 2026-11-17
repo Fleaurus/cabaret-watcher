@@ -12,9 +12,8 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": true,
+   "uitverkocht": false,
    "labels": [
-    "uitverkocht",
     "reprise",
     "reprise"
    ],
@@ -488,6 +487,20 @@
    "uitverkocht": false,
    "labels": [],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/ziel-zalig-joost-spijkers"
+  },
+  "/agenda/seizoen-2026-2027/daar-is-hij-weer-nabil": {
+   "id": "/agenda/seizoen-2026-2027/daar-is-hij-weer-nabil",
+   "titel": "Daar is hij weer",
+   "artiest": "Nabil",
+   "datum": "vr 29 jan 2027 - 20:00",
+   "datum_iso": "29-1-2027 20:00:00",
+   "zaal": "Grote Zaal",
+   "tags": [
+    "Cabaret"
+   ],
+   "uitverkocht": false,
+   "labels": [],
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/daar-is-hij-weer-nabil"
   },
   "/agenda/seizoen-2026-2027/mijn-lieve-achterdocht-ronald-goedemondt": {
    "id": "/agenda/seizoen-2026-2027/mijn-lieve-achterdocht-ronald-goedemondt",
