@@ -1,5 +1,5 @@
 {
- "laatst": "2026-11-16",
+ "laatst": "2026-11-17",
  "genre": "cabaret",
  "shows": {
   "/agenda/seizoen-2026-2027/striptease-van-de-dood-david-linszen": {
@@ -219,10 +219,8 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": true,
-   "labels": [
-    "uitverkocht"
-   ],
+   "uitverkocht": false,
+   "labels": [],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/zeg-maar-u-de-broers-van-arkel"
   },
   "/agenda/seizoen-2026-2027/de-nogal-hyperbijzondere-oudejaa-andries-tunru-stefan-hendrikx": {
