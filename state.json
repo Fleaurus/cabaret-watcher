@@ -2,22 +2,6 @@
  "laatst": "2026-11-19",
  "genre": "cabaret",
  "shows": {
-  "/agenda/seizoen-2026-2027/en-verbied-vogels-om-te-fluiten-ayoub": {
-   "id": "/agenda/seizoen-2026-2027/en-verbied-vogels-om-te-fluiten-ayoub",
-   "titel": "En verbied vogels om te fluiten",
-   "artiest": "Ayoub",
-   "datum": "do 19 nov 2026 - 20:30",
-   "datum_iso": "19-11-2026 20:30:00",
-   "zaal": "Blauwe Zaal",
-   "tags": [
-    "Cabaret"
-   ],
-   "uitverkocht": true,
-   "labels": [
-    "uitverkocht"
-   ],
-   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/en-verbied-vogels-om-te-fluiten-ayoub"
-  },
   "/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-3-flunknarf": {
    "id": "/agenda/seizoen-2026-2027/niet-zomaar-een-pubquiz-3-flunknarf",
    "titel": "Niet zomaar een Pubquiz #3",
