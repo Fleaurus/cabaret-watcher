@@ -2,10 +2,10 @@
  "laatst": "2026-11-23",
  "genre": "cabaret",
  "shows": {
-  "/agenda/seizoen-2026-2027/lachen-met-volle-mond-2-berit-companjen-teun-van-den-elzen-djoni-de-vos": {
-   "id": "/agenda/seizoen-2026-2027/lachen-met-volle-mond-2-berit-companjen-teun-van-den-elzen-djoni-de-vos",
+  "/agenda/seizoen-2026-2027/lachen-met-volle-mond-2-berit-companjen-djoni-de-vos-kaat-blokhuis-ea": {
+   "id": "/agenda/seizoen-2026-2027/lachen-met-volle-mond-2-berit-companjen-djoni-de-vos-kaat-blokhuis-ea",
    "titel": "Lachen met Volle Mond #2",
-   "artiest": "Berit Companjen, Teun van den Elzen, Djoni de Vos en het Comedy Talent van het moment",
+   "artiest": "Berit Companjen, Djoni de Vos, Kaat Blokhuis e.a.",
    "datum": "ma 23 nov 2026 - 19:00",
    "datum_iso": "23-11-2026 19:00:00",
    "zaal": "Zindering",
@@ -15,7 +15,7 @@
    ],
    "uitverkocht": false,
    "labels": [],
-   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/lachen-met-volle-mond-2-berit-companjen-teun-van-den-elzen-djoni-de-vos"
+   "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/lachen-met-volle-mond-2-berit-companjen-djoni-de-vos-kaat-blokhuis-ea"
   },
   "/agenda/seizoen-2026-2027/aan-mij-zal-het-niet-liggen-marjolijn-van-kooten": {
    "id": "/agenda/seizoen-2026-2027/aan-mij-zal-het-niet-liggen-marjolijn-van-kooten",
@@ -938,7 +938,7 @@
   "/agenda/seizoen-2026-2027/mze3ze3-borrelnootjez": {
    "id": "/agenda/seizoen-2026-2027/mze3ze3-borrelnootjez",
    "titel": "MZE3ZE3",
-   "artiest": "Borrelnootjez",
+   "artiest": "BORRELNOOTJEZ",
    "datum": "zo 11 apr 2027 - 20:00",
    "datum_iso": "11-4-2027 20:00:00",
    "zaal": "Grote Zaal",
