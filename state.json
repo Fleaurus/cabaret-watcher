@@ -90,10 +90,8 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": true,
-   "labels": [
-    "uitverkocht"
-   ],
+   "uitverkocht": false,
+   "labels": [],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/finalistentournee-2026-amsterdams-kleinkunst-festival"
   },
   "/agenda/seizoen-2026-2027/de-orde-van-de-dag-15-het-nut": {
@@ -188,8 +186,10 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": false,
-   "labels": [],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/oudejaars-2026-dolf-jansen"
   },
   "/agenda/seizoen-2026-2027/finalistentournee-2026-cameretten": {
@@ -413,8 +413,10 @@
    "tags": [
     "Cabaret"
    ],
-   "uitverkocht": false,
-   "labels": [],
+   "uitverkocht": true,
+   "labels": [
+    "uitverkocht"
+   ],
    "url": "https://stadsschouwburg-utrecht.nl/agenda/seizoen-2026-2027/altijd-aan-pieter-verelst"
   },
   "/agenda/seizoen-2026-2027/ziel-zalig-joost-spijkers": {
